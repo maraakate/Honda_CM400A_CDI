@@ -1,0 +1,135 @@
+If you need too fix your old cb400a cdi....heres what worked for
+mine
+---------------------------------------------------------------------
+--
+1).replace old capacitor inside with
+http://www.mouser.com/Search/ProductDetail.aspx?qs=gb35HGp1gQLzBbm2s
+VUZ9A%3d%3d
+Manufacturer Part #: 146-400V2.2K
+Mouser Part #: 146-400V2.2K
+Manufacturer: Xicon
+Description: Radial Metallized Polyester Film Capacitors uF 400V
+2.2K BLUE
+
+
+2)replace old scr 3 prong chip labeled 5p4m with this
+http://www.mouser.com/Search/ProductDetail.aspx?
+qs=JJML70Qc14u1Y7KSFl6
+H9Q%3d%3d
+otherwise called.. Manufacturer Part #: S4008R
+Mouser Part #: 576-S4008R
+Manufacturer: Littelfuse
+Description: TVS SCR's S4008R
+
+both parts only cost about 2bucks each.
+---------------------------------------------------------------------
+-------
+The haredest thing about this repair is totally removing metal cdi
+housing.
+
+Too do this...have a metal worker grind all for corners then peel
+and bend
+housing off....then throw away. you make a plastic one later.
+---------------------------------------------------------------------
+-------
+Once removed you need too soak the whole cdi but not elec
+wire harness-into the strongest jelly type paint stripper from
+walmart ($6).
+Let soak in small metal can and cover with tin foil maybe a few
+hours
+until you melt off enough crap to start too see a green or yellow
+capacitor.
+(THIS CAN SHOCK YOU-dont touch with out insulated tools). If you
+can,
+see if there are written readable numbers on this part.
+If there is, write them down. If those numbers say 2.2uf good.
+If they say 1 or 1.5uf, you'll need a different capacitor then the
+one I used.
+I had to guess because mine said nothing. I choose 2.2uf 400v film
+capacitor
+because i saw an old honda cx500 twin that used 2.2uf.
+Return unit too paint stripper for up to 3 days.
+This should melt all compounds off exposing a clean circuit board.
+Wash with garden hose pressure spray , then let dry completely.
+---------------------------------------------------------------------
+------
+IF ANY ONE FINDS OUT WHICH CAPACITOR WAS USED ORIGINALLY,PLEASE LET
+ME KNOW
+1UF 1.5UF 2UF OR 2.2UF AND WHAT VOLTAGE RATING?
+EMAIL ME SJSARTWORK@...
+---------------------------------------------------------------------
+------
+Now remove old capacitor(shaped like 2 aaa batteries side by side).
+SNIP THE LEADS CONNECTED TO THE CAPACITOR AS CLOSE TO THE CAPACITOR
+AS
+POSSIBLE. You'll need too rough these 2 prongs up with sandpaper so
+you
+can solder to them the new capacitor. It doesnt matter which end you
+solder
+on where.It's non polarized.
+---------------------------------------------------------------------
+--------
+Next remove old 5p4m scr chip. Should be a rectangle green chip
+encased in
+a clear plastic housing. Its about the size of a dime. Clip the
+chip out
+with snippers, leaving the 3 prongs in place. NOTE WHICH DIRECTION
+THE CHIP
+IS IN PLACE SO YOU CAN SOLDER THE NEW ONE IN THE SAME. Too remove
+the prongs
+, heat up the prongs with solder iron. While hot ,pull one out at a
+time
+with pliers. If you know how to desolder stuff , thats is obviously
+the
+correct thing to do here. Once the prongs are out just stick the tip
+of your
+solder iron in or on each prong hole and heat up a-lot then remove
+iron
+quickly. That should clear the little holes.....
+---------------------------------------------------------------------
+-----
+Next position the new chip in like the last one and solder in place.
+---------------------------------------------------------------------
+------
+Look at your circuit board and wire connections. If you see any
+cracks in
+the solders or circuit paths,resolder up those cracks. Clean any
+corrosion
+that looks obvious. YOUR ALMOST DONE!!!
+---------------------------------------------------------------------
+------
+Its time too test the unit...
+First wrap circuit board completely in electric tape. Doesnt need
+too be
+tight,you'll remove that later. It's just to prevent shocks to you...
+Plug everything into bike as it should. Start and run bike. It
+should run
+like a charm. If so, remove it from bike and BE CAREFUL...THE
+CAPACITOR IS
+NOW CHARGED!!! Too remove charge...pull off tape and use insulated
+screwdriver to ground the 2 capacitor leads together a few times.
+If you dont want to do this, just be careful to not touch any part
+of the
+actual circuit board or capacitor.
+---------------------------------------------------------------------
+-------
+Lastly you need too make or find a durable plastic housing about
+the
+original size. You should fill half the container with a non
+conductive
+silicon or potting compound. Settle cdi into this, then fill the
+other side
+of plastic container so the cdi should be totally encased in this
+silicon.
+You might need too let dry for up to a week(the rubber helps
+protect from
+(weather,vibration,and heat). Just be patient, cause you'll have a
+working
+cdi for real cheap and will have saved possible hundreds. Also youll
+have
+the gratified feeling of do it youself cdi fix...
+
+good luck
+god bless
+and be careful
+email me and let me know if this helped you sjsartwork@...
