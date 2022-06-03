@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|138340001|64865001|5cf4e55c-5adc-41ba-8287-aa04223dd4dc|0fffacda-c3f7-42a9-b2e5-b08fcc28a994"
+      ],
       "meta": {
         "version": 2
       },
@@ -104,7 +106,7 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.635,
-        "min_copper_edge_clearance": 1.9049999999999998,
+        "min_copper_edge_clearance": 0.1905,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
