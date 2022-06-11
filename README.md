@@ -7,6 +7,9 @@ Schematic and PCB layout are in KiCAD format.
 The original PCB Layout is in PNG format and has layers with an antique
 version of Macromedia Fireworks (it's all I got!).
 
-PCB is currently larger than original.  In prototype phase.
+PCB is now the same dimensions as the original.
+Now in pre-manufacturing phase.  Pending a case to house it in.
+
 PCB has been tested and confirmed working:
 https://www.youtube.com/watch?v=neOAnKUinyA
+https://youtube.com/shorts/YKa7PzY36kk
