@@ -13,3 +13,15 @@ Now in pre-manufacturing phase.  Pending a case to house it in.
 PCB has been tested and confirmed working:
 https://www.youtube.com/watch?v=neOAnKUinyA
 https://youtube.com/shorts/YKa7PzY36kk
+
+For kit builders:
+The following case will mount to the frame from the left mounting
+bolt with a bit of work - https://www.amazon.com/dp/B07TYNYW1S
+
+Grommet for case:
+7080N16 EPDM Grommet from MCM (7/8" drill hole size x 1 1/8" total length)
+https://www.mcmaster.com/catalog/128/4232
+
+Potting compound:
+MAX MCR
+https://theepoxyexperts.com/product-category/electrical/max-mcr-black-ab/
