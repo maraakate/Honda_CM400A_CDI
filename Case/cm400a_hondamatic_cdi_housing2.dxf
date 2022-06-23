@@ -1,0 +1,13746 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1032
+  9
+$ACADMAINTVER
+ 90
+      228
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$LASTSAVEDBY
+  1
+Frank
+  9
+$REQUIREDVERSIONS
+160
+                 0
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-139.2826152233404
+ 20
+-31.61687908556321
+ 30
+-131.9143776043948
+  9
+$EXTMAX
+ 10
+104.8472807138049
+ 20
+302.0805958238038
+ 30
+148.9143776043946
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     0
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     1
+  9
+$DIMTOH
+ 70
+     1
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     0
+  9
+$DIMZIN
+ 70
+     0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     0
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+Standard
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     1
+  9
+$DIMTZIN
+ 70
+     0
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     4
+  9
+$DIMTDEC
+ 70
+     4
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     2
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    46
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$DIMFXL
+ 40
+1.0
+  9
+$DIMFXLON
+ 70
+     0
+  9
+$DIMJOGANG
+ 40
+0.7853981633974483
+  9
+$DIMTFILL
+ 70
+     0
+  9
+$DIMTFILLCLR
+ 70
+     0
+  9
+$DIMARCSYM
+ 70
+     0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$DIMTXTDIRECTION
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2459746.938125000
+  9
+$TDUCREATE
+ 40
+2459747.104791667
+  9
+$TDUPDATE
+ 40
+2459753.368726852
+  9
+$TDUUPDATE
+ 40
+2459753.535393518
+  9
+$TDINDWG
+ 40
+0.1029166667
+  9
+$TDUSRTIMER
+ 40
+0.1029166667
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+CAB
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+-19.30865413850317
+ 20
+73.44749851883138
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+-0.0000000000000001
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0000000000000001
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PEXTMAX
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+1.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     0
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     1
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{268EA3C0-73B7-AE43-8B4D-70D691BC1487}
+  9
+$VERSIONGUID
+  2
+{62F39BA5-B432-B441-BB45-9D6FE81D4F75}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  9
+$SORTENTS
+280
+   127
+  9
+$INDEXCTL
+280
+     0
+  9
+$HIDETEXT
+280
+     1
+  9
+$XCLIPFRAME
+280
+     2
+  9
+$HALOGAP
+280
+     0
+  9
+$OBSCOLOR
+ 70
+   257
+  9
+$OBSLTYPE
+280
+     0
+  9
+$INTERSECTIONDISPLAY
+280
+     0
+  9
+$INTERSECTIONCOLOR
+ 70
+   257
+  9
+$DIMASSOC
+280
+     2
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+     0
+  9
+$LENSLENGTH
+ 40
+50.0
+  9
+$CAMERAHEIGHT
+ 40
+0.0
+  9
+$STEPSPERSEC
+ 40
+2.0
+  9
+$STEPSIZE
+ 40
+6.0
+  9
+$3DDWFPREC
+ 40
+2.0
+  9
+$PSOLWIDTH
+ 40
+0.25
+  9
+$PSOLHEIGHT
+ 40
+4.0
+  9
+$LOFTANG1
+ 40
+1.570796326794896
+  9
+$LOFTANG2
+ 40
+1.570796326794896
+  9
+$LOFTMAG1
+ 40
+0.0
+  9
+$LOFTMAG2
+ 40
+0.0
+  9
+$LOFTPARAM
+ 70
+     7
+  9
+$LOFTNORMALS
+280
+     1
+  9
+$LATITUDE
+ 40
+37.795
+  9
+$LONGITUDE
+ 40
+-122.394
+  9
+$NORTHDIRECTION
+ 40
+0.0
+  9
+$TIMEZONE
+ 70
+ -8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+     1
+  9
+$TILEMODELIGHTSYNCH
+280
+     1
+  9
+$CMATERIAL
+347
+96
+  9
+$SOLIDHIST
+280
+     0
+  9
+$SHOWHIST
+280
+     1
+  9
+$DWFFRAME
+280
+     2
+  9
+$DGNFRAME
+280
+     0
+  9
+$REALWORLDSCALE
+290
+     1
+  9
+$INTERFERECOLOR
+ 62
+     1
+  9
+$INTERFEREOBJVS
+345
+A3
+  9
+$INTERFEREVPVS
+346
+A0
+  9
+$CSHADOW
+280
+     0
+  9
+$SHADOWPLANELOCATION
+ 40
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+       13
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        3
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+ 91
+       24
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+GROUND_PLANE_BACKGROUND
+  2
+AcDbGroundPlaneBackground
+  3
+SCENEOE
+ 90
+     4095
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+NPOCOLLECTION
+  2
+AcDbImpNonPersistentObjectsCollection
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACSH_CONE_CLASS
+  2
+AcDbShCone
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACAD_EVALUATION_GRAPH
+  2
+AcDbEvalGraph
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACSH_HISTORY_CLASS
+  2
+AcDbShHistory
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+       33
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+     4095
+ 91
+        2
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+CELLSTYLEMAP
+  2
+AcDbCellStyleMap
+  3
+ObjectDBX Classes
+ 90
+     1152
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SOLID_BACKGROUND
+  2
+AcDbSolidBackground
+  3
+SCENEOE
+ 90
+     4095
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+EXACXREFPANELOBJECT
+  2
+ExAcXREFPanelObject
+  3
+EXAC_ESW
+ 90
+     1025
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYER_INDEX
+  2
+AcDbLayerIndex
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SPATIAL_INDEX
+  2
+AcDbSpatialIndex
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IDBUFFER
+  2
+AcDbIdBuffer
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBSECTIONVIEWSTYLE
+  2
+AcDbSectionViewStyle
+  3
+ObjectDBX Classes
+ 90
+     1025
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDbDetailViewStyle
+  3
+ObjectDBX Classes
+ 90
+     1025
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SORTENTSTABLE
+  2
+AcDbSortentsTable
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBASSOCPERSSUBENTMANAGER
+  2
+AcDbAssocPersSubentManager
+  3
+ObjectDBX Classes
+ 90
+     1024
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPERSSUBENTMANAGER
+  2
+AcDbPersSubentManager
+  3
+AcDbPersSubentManager
+ 90
+     1024
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACSH_EXTRUSION_CLASS
+  2
+AcDbShExtrusion
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACSH_BOX_CLASS
+  2
+AcDbShBox
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+VPORT
+  5
+94
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+-258.7461411377
+ 26
+-258.7461411377002
+ 36
+258.7461411377002
+ 17
+41.33482074737549
+ 27
+97.69750213623048
+ 37
+20.49999999999994
+ 40
+194.7340679646836
+ 41
+1.65444172779136
+ 42
+49.99999999978694
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0000000000000325
+ 71
+     1
+ 72
+  1000
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     1
+ 77
+     0
+ 78
+     0
+281
+     6
+ 65
+     1
+110
+-19.30865413850317
+120
+73.44749851883138
+130
+0.0
+111
+1.0
+121
+-0.0000000000000001
+131
+0.0
+112
+0.0000000000000001
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+348
+211
+ 60
+     3
+ 61
+     5
+292
+     1
+282
+     1
+141
+0.0
+142
+0.0
+ 63
+   250
+421
+  3355443
+1001
+ACAD_NAV_VCDISPLAY
+1070
+     3
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+D5
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LAYER
+  5
+10
+102
+{ACAD_XDICTIONARY
+360
+158
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+   254
+420
+ 12766934
+  6
+Continuous
+370
+    -3
+390
+F
+347
+98
+348
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+arial.ttf
+  4
+
+1001
+ACAD
+1000
+Arial
+1071
+       34
+  0
+STYLE
+  5
+14E
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Annotative
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+arial.ttf
+  4
+
+1001
+AcadAnnotative
+1000
+AnnotativeData
+1002
+{
+1070
+     1
+1070
+     1
+1002
+}
+1001
+ACAD
+1000
+Arial
+1071
+       34
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    10
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+F8
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+APPID
+  5
+14F
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoPO
+ 70
+     0
+  0
+APPID
+  5
+150
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+151
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+     0
+  0
+APPID
+  5
+152
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+     0
+  0
+APPID
+  5
+17F
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+248
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+2EC
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+Acad_TC
+ 70
+     0
+  0
+APPID
+  5
+661
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_STEPID
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     2
+340
+27
+340
+153
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+340
+11
+  0
+DIMSTYLE
+105
+153
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Annotative
+ 70
+     0
+ 40
+0.0
+340
+11
+1001
+AcadAnnotative
+1000
+AnnotativeData
+1002
+{
+1070
+     1
+1070
+     1
+1002
+}
+1001
+ACAD_DSTYLE_DIMJAG
+1070
+   388
+1040
+1.5
+1001
+ACAD_DSTYLE_DIMTALN
+1070
+   392
+1070
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+BLOCK_RECORD
+  5
+1F
+102
+{ACAD_XDICTIONARY
+360
+1E3
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+58
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+59
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+5D
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+5E
+ 70
+     0
+280
+     1
+281
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+5A
+330
+58
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+5B
+330
+58
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+5F
+330
+5D
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+60
+330
+5D
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+3DSOLID
+  5
+B28
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbModelerGeometry
+290
+     1
+  2
+{eb51e55a-19d6-1a41-a2a1-b4b495589d59}
+100
+AcDb3dSolid
+350
+B29
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_ASSOCPERSSUBENTMANAGER
+350
+3A3
+  3
+ACAD_BACKGROUND
+350
+AE
+  3
+ACAD_CIP_PREVIOUS_PRODUCT_INFO
+350
+247
+  3
+ACAD_COLOR
+350
+73
+  3
+ACAD_DETAILVIEWSTYLE
+350
+24D
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MATERIAL
+350
+72
+  3
+ACAD_MLEADERSTYLE
+350
+147
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PERSUBENTMGR
+350
+3A4
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+ACAD_SCALELIST
+350
+126
+  3
+ACAD_SECTIONVIEWSTYLE
+350
+24A
+  3
+ACAD_TABLESTYLE
+350
+86
+  3
+ACAD_VISUALSTYLE
+350
+99
+  3
+ACDB_RECOMPOSE_DATA
+350
+CAA
+  3
+AcDbVariableDictionary
+350
+66
+  0
+DICTIONARY
+  5
+D5
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+EE
+  3
+ACAD_LAYERSTATES
+360
+220
+  3
+ACLYDICTIONARY
+360
+ED
+  0
+DICTIONARY
+  5
+158
+330
+10
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+1E3
+330
+1F
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_SORTENTS
+360
+309
+  0
+ACSH_HISTORY_CLASS
+  5
+B29
+330
+B28
+100
+AcDbShHistory
+ 90
+       33
+ 91
+      228
+360
+B2A
+ 92
+        0
+280
+     0
+281
+     0
+  0
+ACDBASSOCPERSSUBENTMANAGER
+  5
+3A3
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbAssocPersSubentManager
+ 90
+        2
+ 90
+        3
+ 90
+        0
+ 90
+        2
+ 90
+       29
+ 90
+        0
+ 90
+        5
+ 90
+        8
+ 90
+       12
+ 90
+       13
+ 90
+       18
+ 90
+       20
+ 90
+        1
+ 90
+       20
+ 90
+        0
+290
+     0
+  0
+DICTIONARY
+  5
+AE
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+XRECORD
+  5
+247
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbXrecord
+280
+     1
+300
+ACD
+300
+2023
+300
+
+  0
+DICTIONARY
+  5
+73
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+24D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Imperial24
+350
+24E
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+59
+  3
+Layout2
+350
+5E
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+72
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+ByBlock
+350
+97
+  3
+ByLayer
+350
+96
+  3
+Global
+350
+98
+  0
+DICTIONARY
+  5
+147
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Annotative
+350
+157
+  3
+Standard
+350
+148
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+ACDBPERSSUBENTMANAGER
+  5
+3A4
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbPersSubentManager
+ 90
+        2
+ 90
+        0
+ 90
+        2
+ 90
+        0
+ 90
+        0
+ 90
+        0
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+126
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+A0
+350
+127
+  3
+A1
+350
+1A8
+  3
+A2
+350
+1A9
+  3
+A3
+350
+1AA
+  3
+A4
+350
+1AB
+  3
+A5
+350
+1AC
+  3
+A6
+350
+1AD
+  3
+A7
+350
+1AE
+  3
+A8
+350
+1AF
+  3
+A9
+350
+1B0
+  3
+B0
+350
+1B1
+  3
+B1
+350
+1B2
+  3
+B2
+350
+1B3
+  3
+B3
+350
+1B4
+  3
+B4
+350
+1B5
+  3
+B5
+350
+1B6
+  3
+B6
+350
+1B7
+  3
+B7
+350
+1B8
+  3
+B8
+350
+1B9
+  3
+B9
+350
+1BA
+  3
+C0
+350
+1BB
+  3
+C1
+350
+1BC
+  3
+C2
+350
+1BD
+  3
+C3
+350
+1BE
+  3
+C4
+350
+1BF
+  3
+C5
+350
+1C0
+  3
+C6
+350
+1C1
+  3
+C7
+350
+1C2
+  3
+C8
+350
+1C3
+  3
+C9
+350
+1C4
+  3
+D0
+350
+1C5
+  3
+D1
+350
+1C6
+  3
+D2
+350
+1C7
+  0
+DICTIONARY
+  5
+24A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Imperial24
+350
+24C
+  0
+DICTIONARY
+  5
+86
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+87
+  0
+DICTIONARY
+  5
+99
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+2dWireframe
+350
+9F
+  3
+Basic
+350
+9E
+  3
+Brighten
+350
+A5
+  3
+ColorChange
+350
+AA
+  3
+Conceptual
+350
+A2
+  3
+Dim
+350
+A4
+  3
+EdgeColorOff
+350
+201
+  3
+Facepattern
+350
+A9
+  3
+Flat
+350
+9A
+  3
+FlatWithEdges
+350
+9B
+  3
+Gouraud
+350
+9C
+  3
+GouraudWithEdges
+350
+9D
+  3
+Hidden
+350
+A1
+  3
+JitterOff
+350
+1FF
+  3
+Linepattern
+350
+A8
+  3
+OverhangOff
+350
+200
+  3
+Realistic
+350
+A3
+  3
+Shaded
+350
+212
+  3
+Shaded with edges
+350
+211
+  3
+Shades of Gray
+350
+20E
+  3
+Sketchy
+350
+20F
+  3
+Thicken
+350
+A6
+  3
+Wireframe
+350
+A0
+  3
+X-Ray
+350
+210
+  0
+XRECORD
+  5
+CAA
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbXrecord
+280
+     1
+ 90
+        1
+330
+87
+  0
+DICTIONARY
+  5
+66
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+CANNOSCALE
+350
+162
+  3
+CMLEADERSTYLE
+350
+161
+  3
+CTABLESTYLE
+350
+89
+  3
+CVIEWDETAILSTYLE
+350
+25B
+  3
+CVIEWSECTIONSTYLE
+350
+25C
+  3
+DIMASSOC
+350
+67
+  3
+HIDETEXT
+350
+6B
+  3
+LAYEREVAL
+350
+1D1
+  3
+LAYERNOTIFY
+350
+1D2
+  0
+DICTIONARY
+  5
+EE
+102
+{ACAD_REACTORS
+330
+D5
+102
+}
+330
+D5
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+220
+102
+{ACAD_REACTORS
+330
+D5
+102
+}
+330
+D5
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+ED
+102
+{ACAD_REACTORS
+330
+D5
+102
+}
+330
+D5
+100
+AcDbDictionary
+281
+     1
+1001
+ACAD
+1000
+<All
+  0
+SORTENTSTABLE
+  5
+309
+102
+{ACAD_REACTORS
+330
+1E3
+102
+}
+330
+1E3
+100
+AcDbSortentsTable
+330
+1F
+  0
+ACAD_EVALUATION_GRAPH
+  5
+B2A
+330
+B29
+100
+AcDbEvalGraph
+ 96
+        1
+ 97
+        1
+  0
+ACDBDETAILVIEWSTYLE
+  5
+24E
+102
+{ACAD_REACTORS
+330
+24D
+102
+}
+330
+24D
+100
+AcDbModelDocViewStyle
+ 70
+     0
+  3
+Imperial24
+290
+     0
+300
+Imperial24
+ 90
+        0
+100
+AcDbDetailViewStyle
+ 70
+     0
+ 71
+     0
+ 90
+        3
+ 71
+     1
+340
+11
+ 62
+   256
+ 40
+0.24
+340
+0
+ 62
+   256
+ 40
+0.24
+300
+
+ 40
+0.36
+280
+     3
+ 71
+     2
+340
+16
+ 90
+       25
+ 62
+   256
+ 71
+     3
+340
+11
+ 62
+   256
+ 40
+0.24
+ 90
+        1
+ 40
+0.75
+ 90
+        1
+300
+%<\AcVar ViewType \f "%tc1">% %<\AcVar ViewDetailId>%\PSCALE %<\AcVar ViewScale \f "%sn">%
+ 71
+     4
+340
+16
+ 90
+       25
+ 62
+   256
+340
+16
+ 90
+       25
+ 62
+   256
+280
+     0
+  0
+LAYOUT
+  5
+59
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+58
+  0
+LAYOUT
+  5
+5E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+5D
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_XDICTIONARY
+360
+225
+102
+}
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+19.04999923706055
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964844
+ 45
+279.3999938964844
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+2.584895464708373
+ 70
+ 11952
+ 72
+     0
+ 73
+     1
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.3868628397755418
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+331
+94
+  0
+MATERIAL
+  5
+97
+102
+{ACAD_XDICTIONARY
+360
+21A
+102
+}
+102
+{ACAD_REACTORS
+330
+72
+102
+}
+330
+72
+100
+AcDbMaterial
+  1
+ByBlock
+ 94
+       63
+  0
+MATERIAL
+  5
+96
+102
+{ACAD_XDICTIONARY
+360
+218
+102
+}
+102
+{ACAD_REACTORS
+330
+72
+102
+}
+330
+72
+100
+AcDbMaterial
+  1
+ByLayer
+ 94
+       63
+  0
+MATERIAL
+  5
+98
+102
+{ACAD_XDICTIONARY
+360
+18C
+102
+}
+102
+{ACAD_REACTORS
+330
+72
+102
+}
+330
+72
+100
+AcDbMaterial
+  1
+Global
+ 43
+0.0208000000566244
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0208000000566244
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+1.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+1.0
+ 49
+0.0208000000566244
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0208000000566244
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+1.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+1.0
+142
+0.0208000000566244
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0208000000566244
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+1.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+1.0
+144
+0.0208000000566244
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0208000000566244
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+1.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+1.0
+ 94
+       63
+1001
+ACAD
+1070
+    -1
+1070
+     3
+1070
+     0
+1000
+
+1071
+        0
+1070
+     0
+  0
+MLEADERSTYLE
+  5
+157
+102
+{ACAD_REACTORS
+330
+147
+102
+}
+330
+147
+100
+AcDbMLeaderStyle
+179
+     2
+170
+     2
+171
+     1
+172
+     0
+ 90
+        2
+ 40
+0.0
+ 41
+0.0
+173
+     1
+ 91
+-1056964608
+340
+14
+ 92
+       -2
+290
+     1
+ 42
+0.09
+291
+     1
+ 43
+0.36
+  3
+Standard
+ 44
+0.18
+300
+
+342
+11
+174
+     1
+178
+     1
+175
+     1
+176
+     0
+ 93
+-1056964608
+ 45
+0.18
+292
+     0
+297
+     0
+ 46
+0.18
+ 94
+-1056964608
+ 47
+1.0
+ 49
+1.0
+140
+1.0
+293
+     1
+141
+0.0
+294
+     1
+177
+     0
+142
+1.0
+295
+     0
+296
+     1
+143
+0.125
+271
+     0
+272
+     9
+273
+     9
+298
+     0
+  0
+MLEADERSTYLE
+  5
+148
+102
+{ACAD_REACTORS
+330
+147
+102
+}
+330
+147
+100
+AcDbMLeaderStyle
+179
+     2
+170
+     2
+171
+     1
+172
+     0
+ 90
+        2
+ 40
+0.0
+ 41
+0.0
+173
+     1
+ 91
+-1056964608
+340
+14
+ 92
+       -2
+290
+     1
+ 42
+0.09
+291
+     1
+ 43
+0.36
+  3
+Standard
+ 44
+0.18
+300
+
+342
+11
+174
+     1
+178
+     1
+175
+     1
+176
+     0
+ 93
+-1056964608
+ 45
+0.18
+292
+     0
+297
+     0
+ 46
+0.18
+ 94
+-1056964608
+ 47
+1.0
+ 49
+1.0
+140
+1.0
+293
+     1
+141
+0.0
+294
+     1
+177
+     0
+142
+1.0
+295
+     0
+296
+     0
+143
+0.125
+271
+     0
+272
+     9
+273
+     9
+298
+     0
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+SCALE
+  5
+127
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:1
+140
+1.0
+141
+1.0
+290
+     1
+  0
+SCALE
+  5
+1A8
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:2
+140
+1.0
+141
+2.0
+290
+     0
+  0
+SCALE
+  5
+1A9
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:4
+140
+1.0
+141
+4.0
+290
+     0
+  0
+SCALE
+  5
+1AA
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:5
+140
+1.0
+141
+5.0
+290
+     0
+  0
+SCALE
+  5
+1AB
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:8
+140
+1.0
+141
+8.0
+290
+     0
+  0
+SCALE
+  5
+1AC
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:10
+140
+1.0
+141
+10.0
+290
+     0
+  0
+SCALE
+  5
+1AD
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:16
+140
+1.0
+141
+16.0
+290
+     0
+  0
+SCALE
+  5
+1AE
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:20
+140
+1.0
+141
+20.0
+290
+     0
+  0
+SCALE
+  5
+1AF
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:30
+140
+1.0
+141
+30.0
+290
+     0
+  0
+SCALE
+  5
+1B0
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:40
+140
+1.0
+141
+40.0
+290
+     0
+  0
+SCALE
+  5
+1B1
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:50
+140
+1.0
+141
+50.0
+290
+     0
+  0
+SCALE
+  5
+1B2
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1:100
+140
+1.0
+141
+100.0
+290
+     0
+  0
+SCALE
+  5
+1B3
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+2:1
+140
+2.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+1B4
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+4:1
+140
+4.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+1B5
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+8:1
+140
+8.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+1B6
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+10:1
+140
+10.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+1B7
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+100:1
+140
+100.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+1B8
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1/128" = 1'-0"
+140
+0.0078125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1B9
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1/64" = 1'-0"
+140
+0.015625
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1BA
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1/32" = 1'-0"
+140
+0.03125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1BB
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1/16" = 1'-0"
+140
+0.0625
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1BC
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+3/32" = 1'-0"
+140
+0.09375
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1BD
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1/8" = 1'-0"
+140
+0.125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1BE
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+3/16" = 1'-0"
+140
+0.1875
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1BF
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1/4" = 1'-0"
+140
+0.25
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1C0
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+3/8" = 1'-0"
+140
+0.375
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1C1
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1/2" = 1'-0"
+140
+0.5
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1C2
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+3/4" = 1'-0"
+140
+0.75
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1C3
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1" = 1'-0"
+140
+1.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1C4
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1-1/2" = 1'-0"
+140
+1.5
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1C5
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+3" = 1'-0"
+140
+3.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1C6
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+6" = 1'-0"
+140
+6.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+1C7
+102
+{ACAD_REACTORS
+330
+126
+102
+}
+330
+126
+100
+AcDbScale
+ 70
+     0
+300
+1'-0" = 1'-0"
+140
+12.0
+141
+12.0
+290
+     0
+  0
+ACDBSECTIONVIEWSTYLE
+  5
+24C
+102
+{ACAD_REACTORS
+330
+24A
+102
+}
+330
+24A
+100
+AcDbModelDocViewStyle
+ 70
+     0
+  3
+Imperial24
+290
+     0
+300
+Imperial24
+ 90
+        0
+100
+AcDbSectionViewStyle
+ 70
+     0
+ 71
+     0
+ 90
+       78
+ 71
+     1
+340
+11
+ 62
+   256
+ 40
+0.24
+340
+0
+340
+0
+ 62
+   256
+ 40
+0.24
+300
+I, O, Q, S, X, Z
+ 40
+0.48
+ 90
+        3
+ 40
+0.18
+ 90
+        1
+ 71
+     2
+340
+16
+ 90
+       25
+ 62
+   256
+340
+16
+ 90
+       50
+ 62
+   256
+ 40
+0.24
+ 40
+0.0
+ 40
+0.24
+ 71
+     3
+340
+11
+ 62
+   256
+ 40
+0.24
+ 90
+        1
+ 40
+0.75
+ 90
+        1
+300
+%<\AcVar ViewType \f "%tc1">% %<\AcVar ViewSectionStartId>%-%<\AcVar ViewSectionEndId>%\PSCALE %<\AcVar ViewScale \f "%sn">%
+ 71
+     4
+ 62
+   256
+ 62
+   257
+300
+ANSI31
+ 40
+1.0
+ 90
+        0
+290
+     0
+290
+     0
+ 90
+        6
+ 40
+0.0
+ 40
+1.570796326794896
+ 40
+0.2617993877991494
+ 40
+1.308996938995747
+ 40
+-0.2617993877991494
+ 40
+1.832595714594046
+  0
+TABLESTYLE
+  5
+87
+102
+{ACAD_XDICTIONARY
+360
+17C
+102
+}
+102
+{ACAD_REACTORS
+330
+86
+102
+}
+330
+86
+100
+AcDbTableStyle
+280
+     0
+  3
+Standard
+ 70
+     0
+ 71
+     0
+ 40
+0.06
+ 41
+0.06
+280
+     0
+281
+     0
+  7
+Standard
+140
+0.18
+170
+     2
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  7
+Standard
+140
+0.25
+170
+     5
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  7
+Standard
+140
+0.18
+170
+     5
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  0
+VISUALSTYLE
+  5
+9F
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+2dWireframe
+ 70
+     4
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        0
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+9E
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Basic
+ 70
+     7
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A5
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Brighten
+ 70
+    12
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+50.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+AA
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+ColorChange
+ 70
+    17
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A2
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Conceptual
+ 70
+     9
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        3
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+179.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A4
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Dim
+ 70
+    11
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+-50.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+201
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+EdgeColorOff
+ 70
+    22
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     0
+ 90
+        2
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+ 40
+0.6
+176
+     0
+ 40
+30.0
+176
+     0
+ 62
+     7
+420
+ 16777215
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        4
+176
+     0
+ 62
+     7
+176
+     0
+ 62
+   257
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        8
+176
+     2
+ 62
+     7
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        6
+176
+     0
+ 90
+        2
+176
+     0
+ 62
+     7
+176
+     0
+ 90
+        5
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+0.0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A9
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Facepattern
+ 70
+    16
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     8
+420
+  8421504
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     8
+420
+  8421504
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+9A
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Flat
+ 70
+     0
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+9B
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+FlatWithEdges
+ 70
+     1
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+9C
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Gouraud
+ 70
+     2
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+9D
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+GouraudWithEdges
+ 70
+     3
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A1
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Hidden
+ 70
+     6
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+40.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+1FF
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+JitterOff
+ 70
+    20
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     0
+ 90
+        2
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+ 40
+0.6
+176
+     0
+ 40
+30.0
+176
+     0
+ 62
+     7
+420
+ 16777215
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        4
+176
+     0
+ 62
+     7
+176
+     0
+ 62
+   257
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+       10
+176
+     2
+ 62
+     7
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        6
+176
+     0
+ 90
+        2
+176
+     0
+ 62
+     7
+176
+     0
+ 90
+        5
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+0.0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A8
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Linepattern
+ 70
+    15
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+200
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+OverhangOff
+ 70
+    21
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     0
+ 90
+        2
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+ 40
+0.6
+176
+     0
+ 40
+30.0
+176
+     0
+ 62
+     7
+420
+ 16777215
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        4
+176
+     0
+ 62
+     7
+176
+     0
+ 62
+   257
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        9
+176
+     2
+ 62
+     7
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        6
+176
+     0
+ 90
+        2
+176
+     0
+ 62
+     7
+176
+     0
+ 90
+        5
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+0.0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A3
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Realistic
+ 70
+     8
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+212
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Shaded
+ 70
+    27
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     8
+420
+  7895160
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        5
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+211
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Shaded with edges
+ 70
+    26
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        5
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+20E
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Shades of Gray
+ 70
+    23
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+40.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+20F
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Sketchy
+ 70
+    24
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+40.0
+176
+     1
+ 90
+       11
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A6
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Thicken
+ 70
+    13
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+       12
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+A0
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+Wireframe
+ 70
+     5
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        0
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+VISUALSTYLE
+  5
+210
+102
+{ACAD_REACTORS
+330
+99
+102
+}
+330
+99
+100
+AcDbVisualStyle
+  2
+X-Ray
+ 70
+    25
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.5
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+  0
+DICTIONARYVAR
+  5
+162
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+1:1
+  0
+DICTIONARYVAR
+  5
+161
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+89
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+25B
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+Imperial24
+  0
+DICTIONARYVAR
+  5
+25C
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+Imperial24
+  0
+DICTIONARYVAR
+  5
+67
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+6B
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+DICTIONARYVAR
+  5
+1D1
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+0
+  0
+DICTIONARYVAR
+  5
+1D2
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+0
+  0
+DICTIONARY
+  5
+225
+330
+22
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+21A
+330
+97
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+FBXASSET
+360
+21B
+  0
+DICTIONARY
+  5
+218
+330
+96
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+FBXASSET
+360
+219
+  0
+DICTIONARY
+  5
+18C
+330
+98
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+BUMPTILE
+360
+18E
+  3
+DIFFUSETILE
+360
+18D
+  3
+FBXASSET
+360
+21C
+  3
+OPACITYTILE
+360
+18F
+  3
+REFLECTIONTILE
+360
+190
+  0
+DICTIONARY
+  5
+17C
+330
+87
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
+360
+CA9
+  0
+XRECORD
+  5
+21B
+102
+{ACAD_REACTORS
+330
+21A
+102
+}
+330
+21A
+100
+AcDbXrecord
+280
+     1
+ 70
+     1
+ 90
+429727718
+  1
+7EFE150C-8F00-44A4-BE18-9538F957AAAD
+310
+504B03040A0000080000BB70623B3DEE336E79000000790000001B0000006175746F6465736B2D64657369676E2D7061636B6167652E786D6C3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822203F3E3C666F726D6174733E3C666F726D61743E687474703A2F2F736368656D612E
+310
+6175746F6465736B2E636F6D2F64657369676E2D7061636B6167652F323030393C2F666F726D61743E3C2F666F726D6174733E504B0304140006080800BB70623BD486FD9CA0000000F4000000130000005B436F6E74656E745F54797065735D2E786D6C7D8EC10E82300C865F65E91D8A1E8C310C0EEA1BF002731658846E
+310
+D98AC1B77784ABF1D8FE5FBFBF75BBCE937A534CCEB38643598122B6FEE978D0B0485F9C41B54DDD7D022595594E1A469170414C76A4D9A4D207E29CF43ECE46F218070CC6BECC4078ACAA135ACF422C856C0E68EA1BF5669944DDD7BCDE7B1F8E415D77AECB980613C2E4AC91FC167A2B244592486606FC29C8FD7F045B9A
+310
+EF7053A7E60B504B0304140006080800BB70623BA4094710EC0000007C01000008000000636F72652E786D6C8D904D6EC3201085AF82D856D8806DF94798A88EDD13F402088883128365A0EAF18B13476A775DCDE8CDFB66468F9DBE973BF8D29B37CEF6906418026DA553C6CE3D8CE1821A084E9C6DCE855F3608AC58740F
+310
+771972366F2EAE87249D0DDA86A45AA7F4210AEF758040DE53D3432FAF7A1199882139FC2D5B85BC895967E4D5253846A3C0F38851699FB918BD413E91BA26C538A073FB4150399C27D44EE388EAF7A1A294D645DD8C2CDF61CE82595EF7E5A645D00A728A718B0841987E92B2C35557956FB8E93066F96EFF03C555FD138A
+310
+C686821EEF3E310F39498F3C069CE57B16A93C824A75CF8DFF00504B0304140006080800BB70623B55019EA25F0000007C00000007000000636E782E786D6C4DCB3B0E80201045D1AD90E915ED2CF8AC45050C11660C8261F98AB1B07AC9C97D42D718D865D3E909258CFD00CCE24AC6E326A164D74DC0B4128928FF326038
+310
+472BA13128B1252AC747C6BAB984FC68F0B87FE8960A5C09FE86CFB69FBA01504B0304140006080800BB70623B9CFC861172010000D40300000C0000006662782F636F72652E786D6CC553ED6E8320147D15C2DF45016B63DB20CD5ABB27D80B50A5CE54C120983EFEAE1F4DD7A55BBA5FF3879273EEE59E7310BEBD3435EA
+310
+95ED2AA353CC428A91D2B9292A5DA6D8BB53B0C2682BB835C67D29C348CB46A57880B1E0A535BE9DA1DC68A7B403549B42CDA0EC3AE530CA6B58A4B8CB3F542343E91D5474E7B095F959962A6421D0502778E72C0840D390E18DC5E978E164C205F7BE2A66B62A605A75AA94C5E2C092842DB25DB05FBFB120DEED0FC1FA90
+310
+6541F2BA5B4651942C9255C6C9D02CB8AB9AABBADC2AE954814544E93A602CA0D13B8B3774B959C62F74B5A19493A1FCAEC9B7C5934DBED26E11CD72A7B60E0B064246E29B5B88C8A14EF6A087084E8610E133267C1F340402213B79ACAF3ECE00F52A77C6C6C014C6DFA85ED65EC1541AD2F1413F2F38993A61EAB839B87E
+310
+38237A7AC6EF3BC2514B5D8209E96079F46ED0C9270D7368ADB241EF2E481BDBC8FA391BBF38FC137513FF50526E6A63FF4B11990F88CCBF0719EEA3F804504B0304140006080800BB70623B2A59DA457D0000009D0000000B0000006662782F636E782E786D6C4DCCD10A83201886E15B91FFDCD52FAD19A8617623B12C64
+310
+A6C3E9D8E5AF46073BFAE0E1E315FD67F3E46DD3CBC520012F35101BEE7176619550F24239905E891463FEBB0109D366251C0C4AAC2996E749B35DA6E2F3AEDE85C789236F35B2AEA61A6F036D38B6543364B4193AECCC7835A645A894A87EA57D8FB0FA02504B0304140006080800BB70623B9DAC742E2901000012020000
+310
+310000006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F636F72652E786D6C8D515B6EC32010BC0AE22B55651BA8EDDA1126CAE308BD00C5244589C1E251E5F85D6A476AFFF2036876667696E5BBFB7443DFDA07E3EC80694930D256B9D1D8CB80533C171D463BC1BD
+310
+73F10F0D232B273DE00C63C12FDEA5798594B351DB08A875A35E4119828E18A91B3C061CD4979E6429530446B896B3545779D1252DA10C3CC143F410002D4DF289C5A96BF794F5A4D8D3F7435177B42DF68CB2A23EF4B43F9E9AE3B1A5BC5A8482A764C6556E468863CE46FB674DB258F068A6477CE5B58C7AC48211D21794
+310
+16847DD07A4B9A6D53BF926E4B08AF32FD9F28CDE393A2646C7C636BDC4516B080699682E0A34B9FB747187D9F9D8F28F7DB04AD5EB02025210D650DAF16228C0F8E6DBD3A86E83C7CEFE6FA095C0AAC6CDBD68257794370FDAE0FEEBC4DF103504B0304140006080800BB70623B9927E5974E010000330300003000000066
+310
+62782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F636E782E786D6CD593C16EC32010447F0571AD6CE3D489D20813A9877E410FBD62D82434182CC055F3F75D1292E692438FBD206B7698593D61BEFD1E2DF982108D773D6D6B460938E5B571FB9ECE6957AD29D90A1EBC4F
+310
+77364A9C1CA1A759A682EF839FA72269D8C9D92654AD71C72206887E0E0A22CAF926B15E498B01E0AA19451807D01A34B919F16B070157417138917400F2F6FA41FCF0092A45DEE414C19BDC21783E4BD39D891265658C3D8DEA00A3ACE59CBC8678ACB54CB26EEB6BD7839D7E9348BE70AD9C8321B9BCA7F9A4A26C542347
+310
+DEE050F09802D22BA6749A800A394DD62899107273365E3C82CFC6A55557BC06C10774B7ABE7AEC3B0F34CF06446280E154026D0542C187BA9DAB6628BF7B6DBB0E566D93DB1F58631DE64BBE083F7B65CC218087E22CABB042E51D1F2268F1FE12B3EA24D40D63E9CFE00120194D60B9D5BC67FE6D39CDF37E20AF817881F
+310
+504B0304140006080800BB70623B88039AE0680500003C100000340000006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F6F626A656374732E786D6CAD575B6FA33818FD2B887D0642934E9B1565944B5345A3CE541375B40F9522030E650B18D9A693EEAFDF633004
+310
+48DAC95EF210B0B1BFEBF98E3F7B9FF7596ABC522E1296DF98AE3D320D9A872C4AF2F8C62CE5CEBA368DCFBEC719939D65A691938CDE986ADAF4BD98B3B2D05311DD91329583D9D5FC0F438434A7A611A644881B5384CF34233629258BA878B12322891DEFF6B66BD70BFB62634E8AE781D082709A4B588AF91C528CDA28B7
+310
+3F1C998EEF39EABBEFA97FBD6AFCFE2AA7F2A7AF3FC985247978A46C2066EC4E96B7179753EB7232195B934F17AE355FCD97967B351E2D3E2D16D3D9ED148A85E490A42DE17467FA77880D4F42CFA93FB5166BC34F9914B23CA761E53F3CAC6CD612235AD03C421E132AA0ADE3F5A83F74556C3A9FC76AAC5576A7CFF3AABB
+310
+A323A8B1BD79762D65C19F70419C830A2EA842551D1FED688DBFD1216A0163A9FE9608232392F284A4469A049CF037D3C752B5C4F77A62143AB942B8F2C0F4DD83BCAEAD288D5F63F79495BB324D15344DBF42F616F8A7525496257F517E5A1B6C42AECA2497D7DA21F95650D39F7A4E35E97BEA31BED01FEB401ABB94C448
+310
+39DCACBF0E1C5DA8DA5B2F4DFFCB2AD86F543D9E565E7056502E157C00AD2671CD534549AB75CFCA9CDA00677A313F04E53B22FF15E57B300579E3C97EB29F682D92935CEC18CF901B7B54FD8C51F362B56FC72FE0B3C1EAE335EDCCBF5AEC39ADB17DC2782F7F00974ACDF57FCF5F3F665DA476D2E77BAF2830C6C73A949B
+310
+90A4A09EFB24474214288D94610A5CBE0BF6A6BF065382D9B18BA47E1B90A317CF79C577FCD7B2C15695FACE334742077C7B06F323965559C0B677C072C4939562EDDC7B31BFFC5F6A66B6DC7CD9947C47427AAF89654977499E489C9D07F0760DEA25A2E7D10B7DFBC97804478F93B0E92621D3AA04A2AD62AE021F378785
+310
+1A1C34F71484D81733C579DE2F34DC2722A4694A72CACA464B7B0C29ACB624A3FB0454611DD0F1C500C59CBE26AA93E8ADE89985B33EE449A142D61E7A2D4FDBEFF8F2B8FE0A509AFEFC6D0EB4BE1C560507BA0F59CAF83678DBD64C68027CD8D347F78F3EBC75441D250588AFB0DC508E0EF1364A76BB5280774F44F1C77A
+310
+D1CD544B24C72F4D01351AEB9A9C809D517B846BF8363AD1107082839DE5DB04C738CAF2A4F2AEEEA10251C97D477E5066C59664ACCCE539611A35FE34D6B7C2BB5D8CF84964F86CFA9BEA69CD41D9118D0EA9EAA1401D41277CEAA5E7EA7675EB5E8E16D6F56A34B22693D9C49ADFBAD7D6F4727CBD9A5E5ECD66B3656B51
+310
+6589EF352754B706114D9C885EC9131DE6C7F5A16C4DFF9E48E1DCD505E5C4F5F3716DA32DF61CEC01C0DB8DEBAC4869467349147CEFD54BFA9DA0ABE8C9A8E7D71989E91952BEDD6D063660E68C7D0FAAD4E8CFC15E3DBB50B57052887C2EB32027493AD8A81DB78B3CD66E37A16C9F35A3374335D2F1441F2A589A44209C
+310
+C88829CBA804ED9CC1F63CA30288E976E591BE3D9CB1FBB5EE07250952DA58F24CD012A702A806DCCA50F6E78DDFD0C2A92EEAC6C46167BFE04F17A26920D53726F84D2621157680E351353E957040005D584B82801AC9E3149D75BDA91DB7BB546C403F3801B5FE76C939DD92F6AB47BC19290A9CDA3D5AAD6CD30AC27FE4
+310
+78638E41245E8352B6BE1C265A672A35A8ACDA297D37400BF1A255EF515F1FBBE5DAD59A5E44CEBA277D08825AAA25098FAB7B81B24F9B345B3E3868058CF537A348CB18B93C5F92C529C05CAA02078A800A2DB32012505DFCFEF4C019EEA299B14A0081A705CB3296EBC14CDF658DCD336EA6D1136881AAEB87B818B9EE53
+310
+D5F5EB8BC8362082DA24122F98680A4E7930C01A0079749CEA14382A0783E5EBA5A10F8C098456A03D6A4AEB6BB881E2513747552A5DB22C3E6CFC9D6A29C0C0D1B2FB7F03504B0304140006080000BB70623B000000000000000000000000350000006662782F44383641313239302D413137422D343831362D413231322D
+310
+3442393139434435434336312F76657274696365732E62696E504B0304140006080800BB70623BF270F1330600000004000000360000006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F747269616E676C65732E62696E636660600000504B0304140006080000BB70
+310
+623B000000000000000000000000370000006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F617474726962757465732E62696E504B0304140006080800BB70623B08DA0BD19000000041010000360000006662782F44383641313239302D413137422D343831362D41
+310
+3231322D3442393139434435434336312F6469726563746F72792E786D6C858F410AC3201045AF22B36F53E9A60B35CBEEBAE80D244E44489C6234F4F835464A48035D0DF398FF9F8AF63D0E6CC63039F212F8F9020C7D47C6792B21C5FE7403D62A1188E2E60C98D7234A5830286103A55745067B9D86B8A3CF9C7F90C11D
+310
+E607FB144396D7B6A82D282E9A152AD114D5EF2CB866EEE831B8EEA07A7BB5A8D7D61A2BAAEB7FD5F70921FF497D00504B0304140006080800BB70623BCCE31A21FF000000A00100003B0000006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F7265736F7572636573
+310
+2F636F72652E786D6C8D50596AC33010BD8A99DF225BF282ED202B24717A825E40C8934424968C96D2E3574E5C68FFFA3333BC85793CBEFF9A1FD9273AAFAD1980E5143234CA4EDA5C0788E1423AC8F6823B6BC32F196446CE38C00A83E05767E3B241CA9A802624D4D80937507A8F0132F548C7005EDD7096B98C2129FC3D
+310
+5FA4BACB2BE62C4F74D209EE834B01B2D793758270E86D740A3D2F5EACE031EA69D3E829FDD4178D0EC499B52DABC60339F5EF8CD4C7D399F4E77124EDE1D89465D9566D37F262350B1EF4FC9351399401271025A53D618CD0F283D53BDAEC9AFA8D763B4A79B1CAFF98E232FDD314B50955B9C57DD93C0896823C09C18BB5
+310
+AFB49E65A6BD762BBE01504B010214000A0000080000BB70623B3DEE336E79000000790000001B00000000000000000000000000000000006175746F6465736B2D64657369676E2D7061636B6167652E786D6C504B01021400140006080800BB70623BD486FD9CA0000000F40000001300000000000000000000000000B200
+310
+00005B436F6E74656E745F54797065735D2E786D6C504B01021400140006080800BB70623BA4094710EC0000007C010000080000000000000000000000000083010000636F72652E786D6C504B01021400140006080800BB70623B55019EA25F0000007C000000070000000000000000000000000095020000636E782E786D
+310
+6C504B01021400140006080800BB70623B9CFC861172010000D40300000C00000000000000000000000000190300006662782F636F72652E786D6C504B01021400140006080800BB70623B2A59DA457D0000009D0000000B00000000000000000000000000B50400006662782F636E782E786D6C504B010214001400060808
+310
+00BB70623B9DAC742E290100001202000031000000000000000000000000005B0500006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F636F72652E786D6C504B01021400140006080800BB70623B9927E5974E010000330300003000000000000000000000000000D3
+310
+0600006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F636E782E786D6C504B01021400140006080800BB70623B88039AE0680500003C10000034000000000000000000000000006F0800006662782F44383641313239302D413137422D343831362D413231322D3442
+310
+393139434435434336312F6F626A656374732E786D6C504B01021400140006080000BB70623B0000000000000000000000003500000000000000000000000000290E00006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F76657274696365732E62696E504B01021400
+310
+140006080800BB70623BF270F133060000000400000036000000000000000000000000007C0E00006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F747269616E676C65732E62696E504B01021400140006080000BB70623B0000000000000000000000003700000000
+310
+000000000000000000D60E00006662782F44383641313239302D413137422D343831362D413231322D3442393139434435434336312F617474726962757465732E62696E504B01021400140006080800BB70623B08DA0BD1900000004101000036000000000000000000000000002B0F00006662782F44383641313239302D
+310
+413137422D343831362D413231322D3442393139434435434336312F6469726563746F72792E786D6C504B01021400140006080800BB70623BCCE31A21FF000000A00100003B000000000000000000000000000F1000006662782F44383641313239302D413137422D343831362D413231322D344239313943443543433631
+310
+2F7265736F75726365732F636F72652E786D6C504B0506000000000E000E0080040000671100000000
+  0
+XRECORD
+  5
+219
+102
+{ACAD_REACTORS
+330
+218
+102
+}
+330
+218
+100
+AcDbXrecord
+280
+     1
+ 70
+     1
+ 90
+429727718
+  1
+303A0137-2645-45D3-A04B-A3384CBF2EC0
+310
+504B03040A0000080000BB70623B3DEE336E79000000790000001B0000006175746F6465736B2D64657369676E2D7061636B6167652E786D6C3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822203F3E3C666F726D6174733E3C666F726D61743E687474703A2F2F736368656D612E
+310
+6175746F6465736B2E636F6D2F64657369676E2D7061636B6167652F323030393C2F666F726D61743E3C2F666F726D6174733E504B0304140006080800BB70623BD486FD9CA0000000F4000000130000005B436F6E74656E745F54797065735D2E786D6C7D8EC10E82300C865F65E91D8A1E8C310C0EEA1BF002731658846E
+310
+D98AC1B77784ABF1D8FE5FBFBF75BBCE937A534CCEB38643598122B6FEE978D0B0485F9C41B54DDD7D022595594E1A469170414C76A4D9A4D207E29CF43ECE46F218070CC6BECC4078ACAA135ACF422C856C0E68EA1BF5669944DDD7BCDE7B1F8E415D77AECB980613C2E4AC91FC167A2B244592486606FC29C8FD7F045B9A
+310
+EF7053A7E60B504B0304140006080800BB70623BB500B67FEB0000007C01000008000000636F72652E786D6C8D904D6EC3201085AF82665BE1807F2A626122D7A94FD00B20202E4A0C9681AAC72F4E1CA9DD7535A337EF9B193D7EFA9E6FE8CBACC17AD7012D0820E394D7D64D1DA478C10CD049F0D5FBF8CB06C8C9D974B0
+310
+C920F8B4FAB4EC92F22E1A17B3EABC36BB2843301190BAE5A683A03ECD2C0B996276846BB14875959329E8B3CB704A56A3C711ABF33E7BB1660551D191F5840DF83C0E3DAE9BB71AF77DCFF0C0C6E3B9A6D5FB405FF96183058F767EDE57AB91D168102521474C2926E507AD5BD2B44DFD42584B083F6CF63F505AF43FA164
+310
+5DACCAFDDD071640D0FCC87D20F861CB22977B50B96EB9891F504B0304140006080800BB70623B55019EA25F0000007C00000007000000636E782E786D6C4DCB3B0E80201045D1AD90E915ED2CF8AC45050C11660C8261F98AB1B07AC9C97D42D718D865D3E909258CFD00CCE24AC6E326A164D74DC0B4128928FF32603847
+310
+2BA13128B1252AC747C6BAB984FC68F0B87FE8960A5C09FE86CFB69FBA01504B0304140006080800BB70623B6A5B7E6271010000D40300000C0000006662782F636F72652E786D6CC553D16E832014FD15C2EBA280B58B6D90C6D9F50BF60354A933553008A69FBF6BB5E9BA744DF7341F949C732FF79C83F0CDA96DD0A06C
+310
+5F1B9D6216528C942E4C59EB2AC5DE1D8204A38DE0D618F7AD0C232D5B95E211C68257D6F86E860AA39DD20E506D4A3583B2EF95C3A8686091E2BEF854AD0CA57750D11FC34E164759A9908540439DE0BDB320004D43C6371687FD89930917DCFBBA9CD9BA8469F5A156168B05DB25194DF260BBCBB3205EBEC54196654990
+310
+27BBD536668BF79CBD7232360BEEEAF6A2AEB04A3A55621151BA0A180B68F4C1E2355DAE97F10B4DD694723296DF34F9AE7CB2C9D7DA2DA259EED4D663C140C899F8E1162272A89703E82182933144F89C13BE0D1A0281909DDC37171F47800655386363604AE3AFD4201BAF602A0DE9F941BF2F38993A61EA7973707D7746
+310
+F4F48CC73BC2514B5D8109E960B9F76ED4C9270D73689DB2C1E04E481BDBCAE6391B0F1CFE89BA8ABF2BA9308DB1FFA588CC0744E6DF838CF7517C01504B0304140006080800BB70623BFE346BEC7E0000009D0000000B0000006662782F636E782E786D6C4DCCD10A83201886E15B91FFDC95AEB2811A16761FB12C64A6C3
+310
+E9D8E5AF46073BFAE0E1E3E5DD6773E86DE2CB062F805C4A40C6DFC36CFD2A20A705B7803AC96308E9EF06C84F9B11703048BEC6909F27CD6699B24BBB3AEB1F27525237BA1F191E7A36E04A6B86FBABAA71A5687B1B9B529191422179F12BED7B84E517504B0304140006080800BB70623B365BAC5B2A0100001202000031
+310
+0000006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F636F72652E786D6C8D515B6EC32010BC0AE22B55850D8EED3C8489922839412F4031495162B07854397E97DA91DABFFCB06876667660F9EE31DCD1B7F6C138DB6156508CB455AE37F6DAE1142F648DD14E70EF
+310
+5CFC43C3C8CA417738C358F0AB77699C21E56CD436026A5DAF675086A02346EA0E970E07F5A50759C81481116EC528D54D5E75C10A68034FF0103D0440D3907C6251B1A63D1DCE2B723CAC8EA43E9D56E4B0DC37A4DE57EBCDB9A57B76AE783909054FC9F4B3DCF410C75C8CF6AF9A64B1E0D10CCFF8CA6B19750F7A4A3784
+310
+3142AB0F566F69B36DEA77BADE52CACB4CFF274A63FFA228191B97D51C7792052C182FA786E0BD4B9FF76718FD189D8F28CF5B04ADDEB0A005A50D6B403011E1F9E0D8D6B36388CEC3F72E6E9FC065CD64DBD682977943507ED707356F53FC00504B0304140006080800BB70623B9927E5974E010000330300003000000066
+310
+62782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F636E782E786D6CD593C16EC32010447F0571AD6CE3D489D20813A9877E410FBD62D82434182CC055F3F75D1292E692438FBD206B7698593D61BEFD1E2DF982108D773D6D6B460938E5B571FB9ECE6957AD29D90A1EBC4F
+310
+77364A9C1CA1A759A682EF839FA72269D8C9D92654AD71C72206887E0E0A22CAF926B15E498B01E0AA19451807D01A34B919F16B070157417138917400F2F6FA41FCF0092A45DEE414C19BDC21783E4BD39D891265658C3D8DEA00A3ACE59CBC8678ACB54CB26EEB6BD7839D7E9348BE70AD9C8321B9BCA7F9A4A26C542347
+310
+DEE050F09802D22BA6749A800A394DD62899107273365E3C82CFC6A55557BC06C10774B7ABE7AEC3B0F34CF06446280E154026D0542C187BA9DAB6628BF7B6DBB0E566D93DB1F58631DE64BBE083F7B65CC218087E22CABB042E51D1F2268F1FE12B3EA24D40D63E9CFE00120194D60B9D5BC67FE6D39CDF37E20AF817881F
+310
+504B0304140006080800BB70623B5A44592E630500003C100000340000006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F6F626A656374732E786D6CAD575B8F9B3818FD2B887D0642C8B4332B862A974E1575A7AD1AB5DA879122030EC30E60649B994C7FFD1E8321
+310
+4092367BC943C0C6FEAEE73BFEECBFDBE799F14CB94859716BBAF6C4346811B1382D925BB3923BEBDA34DE053E674CF696994641727A6BAA6933F013CEAA524FC57447AA4C8E66EF167F1A22A205358D282342DC9A227AA439B14925594CC5931D1349EC64B7B75DBB5938149B70523E8E849684D342C252CC1790623446B9
+310
+C3E1C47402DF51DF035FFDEB55DEF9554EEDCF507F5A08498AE848D9488CE7CE56EFA75737D6D56CE659B33753D75ADC2D5696FBD69B2CDF2C9737F3F737502C2487246D09A73B33F880D8F034F29DE65367B136FC9449112B0A1AD5FEC3C3DA662D31A6252D62E431A502DA7A5E4F864357C5A6F7D95363ADB23F7D9957FD
+310
+1D3D41ADEDEDB36F290BFF820BE21254704115AA9AF868471BFC4D0E510B19CBF4B75418399194A72433B234E484BF9A0196AA25813F10A3D0C915C2950766E01EE4F56D4569FC1ABBA7ACDC5559A6A0690635B2B7C03F95A2B62CFD41F9696DB009B9AAD2425E6B87E46B49CDE0C677EAC9C0570F6FAA3F36813476194990
+310
+72B8D97C1D39BA54B5B75E99C1C7BB70BF51F5785A79C95949B954F001B4DAC4B54F1525ADD6BD28736A039C19C4FC1094AF88FC2794EFC114E48DA7FBD97EA6B5484E0AB1633C476EEC49FD3326ED8BD5BD1DBF80CF46AB8FD77433FF6AB1EF74C60E09E35CFE002E959AEBFF9EBF61CCFA48EDA52FF09F51608C7B3A949B
+310
+8864A09EFBB4404214288D8C610A5CBE0BF766B0065382D9B18B64411790A317DF79C677FC37B2C156B5FADEB34042477C7B01F323967559C0B6336039E2C95AB176EE5CCCAFFE979A99AF361F3715DF9188DE6B6259D15D5AA41267E701BC7D8306891878F4445F5F188FE1E8711236FD24E45A9540B455CC55E093F6B050
+310
+8383E6818208FB12A638CFFF8586FB544434CB484159D56AE98E2185D58E64749F802A6C02EA4D4728E6F439559DC460C5C02C9CF5114F4B15B2EED0EB78DA3EE3CBB7F52780D20C16AF7F90D73E618607BA8F58C6F8367CDD364C68027CD83344F7F721BC75441D250588AFB1DC528E0EF1364E77BB4A80774F44F1FB7AD9
+310
+CF544724C72F6D01B51A9B9A9C819D517B846BF8B63AD1107082839D15DB14C738CAF2A4F2BEEEB10251CB3D233FACF2724B725615F292304D5A7F5AEB3BE1FD2E46BC10193D9AC1A67E5A0B50764CE333095547D0099F06E9F126DE7CE27A6FADE99BD99535BB5A79D67C325B5873CFBB9E2D1777D3F74B1C73C30A684FA8
+310
+7E0D229A3811FD8AA73ACCDFD687B235837B2285F3A1292827699EDFD636DA62DFC11E00BCDBB8CECB8CE6B49044C1F75EBD645F09BA8A818C667E9D93845E20E5F387CDC806CC5CB0EF8B2A35FA32DAAB6797AA164E0A918F551E1624CD461BB5E3765924DAED3694DDB361F476A8463A9EE84305CBD21884131B09653995
+310
+A09D0BD89EE7540031FDAE3CD6B7870B763F37FDA02461465B4B1E095AE24C00D5209D2A92C379E337B470AA8BBA3571D8D94FF8D385681A48F5AD097E936944851DE278548D4F2D1C104017D69120404F8A244367DD6CEAC6DD2E151BD00F4E40ADBF5B7249B7A4FD1A106F4ECA12A7F680566BDBB482E81F39DE9A631089
+310
+D7B0929D2F8789CE995A4D00AE813BDD032DC49356BD477DFDDC2DD7AED70C2272D13DE9A72068A45A92F0A4BE17A8A06B93E6AB2F0E5A0163FDD928B32A412E2F9764710A3057AAC08122A042CB2C89045497BF3F7CE10C77D1DCB84B01818725CB7356E8C15CDF658DCD236EA6F1036881AAEB87984E5CF7A1EEFAF54564
+310
+1B12416D128B274CB405A73C18610D803C3A4EF5F5CC5139182D5FAF0C7D60CC20B406ED5153DA5CC30D148FBA39AA52E99365F9D3C6DFA99702051C2D7BF037504B0304140006080000BB70623B000000000000000000000000350000006662782F32313536454246372D434237432D344545372D423341352D3441323839
+310
+463630413146322F76657274696365732E62696E504B0304140006080800BB70623BF270F1330600000004000000360000006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F747269616E676C65732E62696E636660600000504B0304140006080000BB70623B000000
+310
+000000000000000000370000006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F617474726962757465732E62696E504B0304140006080800BB70623B08DA0BD19000000041010000360000006662782F32313536454246372D434237432D344545372D423341352D34
+310
+41323839463630413146322F6469726563746F72792E786D6C858F410AC3201045AF22B36F53E9A60B35CBEEBAE80D244E44489C6234F4F835464A48035D0DF398FF9F8AF63D0E6CC63039F212F8F9020C7D47C6792B21C5FE7403D62A1188E2E60C98D7234A5830286103A55745067B9D86B8A3CF9C7F90C11DE607FB1443
+310
+96D7B6A82D282E9A152AD114D5EF2CB866EEE831B8EEA07A7BB5A8D7D61A2BAAEB7FD5F70921FF497D00504B0304140006080800BB70623BA6AB98E7FE000000A00100003B0000006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F7265736F75726365732F636F7265
+310
+2E786D6C8D504B6E833010BD0A9A6D65B00354041947849413F4029699A456828DFCA97AFC9A40A576D7CDCCE87D344F8F9FBEE647F689CE6B6B3A6039850C8DB29336B70E62B89206B293E0CEDAF04B0699913376B0C220F8CDD9B8EC90B226A009093576C21D94DE63804C3DD2D181571F38CB5CC69014FE9E2F52DDE50D
+310
+7396273AE904F7C1A500D9F6649D201C7A1B9D42CF8B8D153C463DED1A3DA59FFAAAD18128D9D8F4B43993CB38F4A4AACF15E9FBBE2143331E2F152BDF06F6CA8BD52C78D0F34F46E550069C401C283D12C6083DBCB3AAA5755B572FB46929E5C52AFF638ACBF44F53D42694873DEE66F320580AF224042FD6BED27A9699F6
+310
+DAADF806504B010214000A0000080000BB70623B3DEE336E79000000790000001B00000000000000000000000000000000006175746F6465736B2D64657369676E2D7061636B6167652E786D6C504B01021400140006080800BB70623BD486FD9CA0000000F40000001300000000000000000000000000B20000005B436F6E
+310
+74656E745F54797065735D2E786D6C504B01021400140006080800BB70623BB500B67FEB0000007C010000080000000000000000000000000083010000636F72652E786D6C504B01021400140006080800BB70623B55019EA25F0000007C000000070000000000000000000000000094020000636E782E786D6C504B010214
+310
+00140006080800BB70623B6A5B7E6271010000D40300000C00000000000000000000000000180300006662782F636F72652E786D6C504B01021400140006080800BB70623BFE346BEC7E0000009D0000000B00000000000000000000000000B30400006662782F636E782E786D6C504B01021400140006080800BB70623B36
+310
+5BAC5B2A0100001202000031000000000000000000000000005A0500006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F636F72652E786D6C504B01021400140006080800BB70623B9927E5974E010000330300003000000000000000000000000000D3060000666278
+310
+2F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F636E782E786D6C504B01021400140006080800BB70623B5A44592E630500003C10000034000000000000000000000000006F0800006662782F32313536454246372D434237432D344545372D423341352D3441323839463630
+310
+413146322F6F626A656374732E786D6C504B01021400140006080000BB70623B0000000000000000000000003500000000000000000000000000240E00006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F76657274696365732E62696E504B01021400140006080800
+310
+BB70623BF270F13306000000040000003600000000000000000000000000770E00006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F747269616E676C65732E62696E504B01021400140006080000BB70623B0000000000000000000000003700000000000000000000
+310
+000000D10E00006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F617474726962757465732E62696E504B01021400140006080800BB70623B08DA0BD190000000410100003600000000000000000000000000260F00006662782F32313536454246372D434237432D34
+310
+4545372D423341352D3441323839463630413146322F6469726563746F72792E786D6C504B01021400140006080800BB70623BA6AB98E7FE000000A00100003B000000000000000000000000000A1000006662782F32313536454246372D434237432D344545372D423341352D3441323839463630413146322F7265736F75
+310
+726365732F636F72652E786D6C504B0506000000000E000E0080040000611100000000
+  0
+XRECORD
+  5
+18E
+102
+{ACAD_REACTORS
+330
+18C
+102
+}
+330
+18C
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+18D
+102
+{ACAD_REACTORS
+330
+18C
+102
+}
+330
+18C
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+21C
+102
+{ACAD_REACTORS
+330
+18C
+102
+}
+330
+18C
+100
+AcDbXrecord
+280
+     1
+ 70
+     0
+ 90
+1778669749
+  1
+1E186E24-3390-4776-B512-8AB2F70A63BF
+310
+504B03040A0000080000BB70623B3DEE336E79000000790000001B0000006175746F6465736B2D64657369676E2D7061636B6167652E786D6C3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822203F3E3C666F726D6174733E3C666F726D61743E687474703A2F2F736368656D612E
+310
+6175746F6465736B2E636F6D2F64657369676E2D7061636B6167652F323030393C2F666F726D61743E3C2F666F726D6174733E504B0304140006080800BB70623BD486FD9CA0000000F4000000130000005B436F6E74656E745F54797065735D2E786D6C7D8EC10E82300C865F65E91D8A1E8C310C0EEA1BF002731658846E
+310
+D98AC1B77784ABF1D8FE5FBFBF75BBCE937A534CCEB38643598122B6FEE978D0B0485F9C41B54DDD7D022595594E1A469170414C76A4D9A4D207E29CF43ECE46F218070CC6BECC4078ACAA135ACF422C856C0E68EA1BF5669944DDD7BCDE7B1F8E415D77AECB980613C2E4AC91FC167A2B244592486606FC29C8FD7F045B9A
+310
+EF7053A7E60B504B0304140006080800BB70623B49BC5E48EC0000007C01000008000000636F72652E786D6C8D90416E83301045AF62CDB632D8182A40C65148C2097A01CB38D44AB011B6AB1EBF262152BBEB6A467FFE9B197D7EF89EEFE84BAFDE38DB01CD08206D951B8D9D3A88E18A6B4007C157E7C22F1B202B67DDC1
+310
+2683E0D3EAE2B24BCAD9A06D48AA75A3DE45E9BD0E80D43D351D78F5A96799C91892C3DFB245AA9B9C74465F5D826334237A1E3163DA67AE46AF20D8F9529066A8714F4F275C968CE17E6047DCB0B23A57477AE9DF079E6FB0E0C1CCAFFB6AD532E8114441488329C5A4F8A0654BAAB62ADF48DD12C2F3CDFE078ACBF84F28
+310
+1A1B58B1BFFBC43C089A1E790C04CFB72C52790495EA969BF801504B0304140006080800BB70623B55019EA25F0000007C00000007000000636E782E786D6C4DCB3B0E80201045D1AD90E915ED2CF8AC45050C11660C8261F98AB1B07AC9C97D42D718D865D3E909258CFD00CCE24AC6E326A164D74DC0B4128928FF326038
+310
+472BA13128B1252AC747C6BAB984FC68F0B87FE8960A5C09FE86CFB69FBA01504B0304140006080800BB70623B5DBD559271010000D40300000C0000006662782F636F72652E786D6CC5535B6E833010BC8AE5DF0A6CF3A892C838CAF304BD80030E45011B191BE5F85D02519A2A8DD2AFF201D6CCAE77668CF9F2DCD4A857
+310
+B6AB8CCE300B29464AE7A6A8749961EF8EC10CA3A5E0D618F7AD0C232D1B95E101C68297D6F8768272A39DD20E506D0A3581B2EB94C328AF6191E12EFF548D0CA57750D19DC256E62759AA908540439DE09DB320008D43863716C7C399931117DCFBAA98D8AA8069D5B152168B78BB8BE87C3F0BD66CB30992248E83F53E5E
+310
+05F33849B7E98AEDD6EF7B4E8666C15DD55CD5E55649A70A2C224AE70163018D3E58B2A0E9224DDEE86C41292743F95D936F8B179B7CA55D1C4D72C7B60E0B06422EC40FB71091439DEC410F119C0C21C2E792F07DD0100884ECE4A1BEFA3801D4ABDC199B0053187FA37A597B055369482F0FFA7DC1C9D809532F9B83EB87
+310
+33A297673CDF118E5AEA124C4807CB8377834E3E6A98426B950D7A7746DAD846D6AFD978E2F04FD44DFC4349B9A98DFD2F45643A2032FD1E64B88FE20B504B0304140006080800BB70623BBA7DE6887E0000009D0000000B0000006662782F636E782E786D6C4DCCD10A83201886E15B91FFDC554E32410DABED3E625948A6
+310
+C3E9D8E5AF46073BFAE0E1E315ED6773E86DE2CB062FA1BA94808C7F84C9FA45424E336E00B54AC410D2DF0D901F3723E160506289213F4F9ACC3C66977675D6AF2756FDBDD69AD7B8639C604AAF036E6E8460463BD6975A0F9C522894287EA57D8FB0FA02504B0304140006080800BB70623BB4C6909F2C01000012020000
+310
+310000006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F636F72652E786D6C8D515B6EC32010BC8AC557AACA3638D8B1234CE424ED097A010748821283C5A3CAF1BBAE1DA9FDCB0F8B6667660796ED1EC33DF956CE6B6B5A44328C12658495DA5C5A14C339AD51B2E3
+310
+CC591BFED05062FA41B5688211671767E3B840C29AA04C00D458A916B0F75E0594883B5C5AE4C5550D7DD6C7000C7FCBC65EDCFA8BCA48066DE071E6838300C93C643A112787CFAAEB9A2ADD6F9A22A5747D4CEB8FA2483774BF39E0AE3B3694B27C167216A3968B5C4B88A3CF5AB9574D263167410FCFF8C2A93E28897881
+310
+71931292E2E28BD02D2EB7257DC7F51663964FF47FA238CA1745519BB02E96B8B3CC435696CF0DCEA48DA7FB338C7A8CD685649AB7F24ABC218E338CCBAAA9593E13E1F9E058D1C5D107EBE07B57B713704939DB5694B37CDA1094DFF5419DB6C97F00504B0304140006080800BB70623B9927E5974E010000330300003000
+310
+00006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F636E782E786D6CD593C16EC32010447F0571AD6CE3D489D20813A9877E410FBD62D82434182CC055F3F75D1292E692438FBD206B7698593D61BEFD1E2DF982108D773D6D6B460938E5B571FB9ECE6957AD29D90A
+310
+1EBC4F77364A9C1CA1A759A682EF839FA72269D8C9D92654AD71C72206887E0E0A22CAF926B15E498B01E0AA19451807D01A34B919F16B070157417138917400F2F6FA41FCF0092A45DEE414C19BDC21783E4BD39D891265658C3D8DEA00A3ACE59CBC8678ACB54CB26EEB6BD7839D7E9348BE70AD9C8321B9BCA7F9A4A26C
+310
+542347DEE050F09802D22BA6749A800A394DD62899107273365E3C82CFC6A55557BC06C10774B7ABE7AEC3B0F34CF06446280E154026D0542C187BA9DAB6628BF7B6DBB0E566D93DB1F58631DE64BBE083F7B65CC218087E22CABB042E51D1F2268F1FE12B3EA24D40D63E9CFE00120194D60B9D5BC67FE6D39CDF37E20AF8
+310
+17881F504B0304140006080800BB70623BB608DCFA640500003B100000340000006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F6F626A656374732E786D6CAD575B6FA33814FE2B887D064292DE56945193B45534EA4C355147FB502932E050B680916DDA747FFD7E
+310
+064380249DEC250F019BE373FDCEC5DE976D961A6F948B84E5D7A66B8F4C83E6218B923CBE364BB9B12E4DE38BEF71C66487CC347292D16B536D9BBE177356167A2BA21B52A672B07B37FBC31021CDA969842911E2DA14E10BCD884D4AC9222A5EED884862C79BADEDDA35619F6DCC49F132605A104E73094DB19F838B512B
+310
+E5F69723D3F13D477DF73DF5AFA926C7A99CCA9EBEFC241792E4E19EB0019B893B5DDC8ECFAEACB3E974624DCFC7AE35BB9B2D2CF762329A9FCFE75737B757102C240727AD09A71BD3BF876F78127A4EFDA9D5582B7E48A590E5390D2BFB6161A5B3E618D182E611E2985001691DAB47FDA5AB7CD3F93C516B2DB2BB7D9A55
+310
+DD131D468DEECDB3AB290BFE8409E21454704115AA6AFF68436BFC8D765E0B184BF5B74418199194272435D224E0847F983E481589EFF5D828747285706581E9BB3B7E5D5D911ABFC6EE212D37659A2A689A7E85EC35F04FA5A8344BFEA2FCB034E8845895492E2FB541F2A3A0A67FE539D5A6EFA9C764AC3FD68E34362989
+310
+117298597F1D183A57B9B75C98FED7BB60BB52F9785878C15941B954F001B49AC0354FE5252DD63D2972EA008CE9F97CE7941FF0FC37A4EF4E15C48D27DBE976AAA5484E72B1613C436CEC51F53346CD8BD5BEEDBFA09E0DA8F769DA9D7F45EC39ADB2FD82712C7E00970ACDE57F8F5FDF675DA476C2E77B6F4830C627DA95
+310
+AB90A4283D0F498E8028501A29C3166AF926D89AFE129512951DA748EAB70ED97BF19C377CC77FCD1BD5AA12DF79E608E8A0DE9E50F9E1CB2A2DA0DB11B0ECD5C94AB036EE98CFCFFE979CB959ACBEAE4ABE21217DD085654137499E48F4CE1D78BB0AF502D1B3E8957EBC331EC1D0FD20ACBA41C8B428016F2B9F2BC7C74D
+310
+B3508B9DE49E8010E762A66A9EF70B090F8908699A929CB2B291D2B62185D5B6C8E8390159583B74321EA098D3B7444D123D8A9E5AE8F5214F0AE5B2B6E9B575DA3E62CBD3F21B4009FA940524DD1105BB6A1FB294F175F0B1AE0BA109ECE1481FDC3FFBE8D60E75141700BE82725371B487D751B2D9940265F780137F2EE7
+310
+DD40B57564FFA5C99F46629D92531467A41EE11ABD8D4CCC039CA0AFB37C9DA08B232B0F0AEFCA1E0A1015DF23FC83322BD62463652E4F71D3A8B1A7D1BE65DE1D62C43B91E18BE9AFAAA73543C58E68B40B550F04AA031DB0A91F9E5BF7F2FC763CB52693AB9135BDB838B76667EED8BABC998DEF2E4637E793D95DAB51A5
+310
+89EF350DAA9B82F0261AA257F244BBF969B9CB5AD37F205238F7753E3971FD7C5ADA988A3D076780EFF6E0322B529AD15C1285DE07F592FE20182A7A3CEAFD6546627A0297EFF7AB810ED839E1DCA3CA34FA3E38AB77E72A170E32912F6516E424490707B5E17691C7DAECC695EDB32EE8CD52ADB43F31860A962611EA4D64
+310
+C4946554A2EA9C50EC79460510D31DCA237D7938E1F45B3D0E4A12A4B4D1E48560224E05500DB895A1ECEF1BBF61825343D4B5895E67BFE24F27A26920D4D726CA9B4C422AEC00DD51CD3D1573400043585B03013592C72906EBFA50BB6E4F29DFA0FCA0016AF92DC929C392B6AB577733521468DABDAA5AE9A60584FFC8F0
+310
+461D8348BC06A56C6DD96DB4C654629059B551FA6A8009E2558BDE22BF3E37CBB52B9A9E474EBA267D0A829AAB25098FAB6B81D24FAB74B37874300918CBEF4691963162793A278B5380B954090E1401159A674124A03AFFFDF991335C4533E32E01049EE72CCB58AE1737FA2A6BAC5E70318D9E5116A8BA7D88F1C8759FAB
+310
+A15FDF43D60111D4269178C5469370CA8201D600C8BD6EAA43E0A8180CC8970B43378C299856A0DD9B49EB5BB881E4511747952ADD62597C3AF73B1529C0C031B1FB7F03504B0304140006080000BB70623B000000000000000000000000350000006662782F31434636414139362D423739322D343433442D384532322D37
+310
+34423743304141443934342F76657274696365732E62696E504B0304140006080800BB70623BF270F1330600000004000000360000006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F747269616E676C65732E62696E636660600000504B0304140006080000BB7062
+310
+3B000000000000000000000000370000006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F617474726962757465732E62696E504B0304140006080800BB70623B08DA0BD19000000041010000360000006662782F31434636414139362D423739322D343433442D3845
+310
+32322D3734423743304141443934342F6469726563746F72792E786D6C858F410AC3201045AF22B36F53E9A60B35CBEEBAE80D244E44489C6234F4F835464A48035D0DF398FF9F8AF63D0E6CC63039F212F8F9020C7D47C6792B21C5FE7403D62A1188E2E60C98D7234A5830286103A55745067B9D86B8A3CF9C7F90C11DE6
+310
+07FB144396D7B6A82D282E9A152AD114D5EF2CB866EEE831B8EEA07A7BB5A8D7D61A2BAAEB7FD5F70921FF497D00504B0304140006080800BB70623BB9DDCA38FF000000A00100003B0000006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F7265736F75726365732F
+310
+636F72652E786D6C8D504B6E833010BD0A9A6D65B031B421328E42124ED00B5866925A0976E44FD5E3D724546A77DDCC8CDE47F3F4C4EE6BBE159FE88371B607565228D06A37197BE921C533D940B193C23B177FC9A0B06AC61E1618A4B87897EE2BA49D8D686346AD9B7005550818A1D0B77CF410F407CEAA54296645B896
+310
+77A5AFEA82252B339D755284E87380E2F96499203D0697BCC620AA272B454A665A3566CA3FCDD9A007C98FA79A76E31B19D8E1409A8673328C7C4F3ADEB4C776CF4EC3EB28AAC52C4534F34F46ED51459C40D69476843142EB77D66C69BB6D9B17BAD9522AAA45FEC794EED33F4DC9D8C8EB35EED31640B21CE44148512D7D
+310
+E5F52833EFA55BF90D504B010214000A0000080000BB70623B3DEE336E79000000790000001B00000000000000000000000000000000006175746F6465736B2D64657369676E2D7061636B6167652E786D6C504B01021400140006080800BB70623BD486FD9CA0000000F40000001300000000000000000000000000B20000
+310
+005B436F6E74656E745F54797065735D2E786D6C504B01021400140006080800BB70623B49BC5E48EC0000007C010000080000000000000000000000000083010000636F72652E786D6C504B01021400140006080800BB70623B55019EA25F0000007C000000070000000000000000000000000095020000636E782E786D6C
+310
+504B01021400140006080800BB70623B5DBD559271010000D40300000C00000000000000000000000000190300006662782F636F72652E786D6C504B01021400140006080800BB70623BBA7DE6887E0000009D0000000B00000000000000000000000000B40400006662782F636E782E786D6C504B01021400140006080800
+310
+BB70623BB4C6909F2C0100001202000031000000000000000000000000005B0500006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F636F72652E786D6C504B01021400140006080800BB70623B9927E5974E010000330300003000000000000000000000000000D606
+310
+00006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F636E782E786D6C504B01021400140006080800BB70623BB608DCFA640500003B1000003400000000000000000000000000720800006662782F31434636414139362D423739322D343433442D384532322D373442
+310
+3743304141443934342F6F626A656374732E786D6C504B01021400140006080000BB70623B0000000000000000000000003500000000000000000000000000280E00006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F76657274696365732E62696E504B0102140014
+310
+0006080800BB70623BF270F133060000000400000036000000000000000000000000007B0E00006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F747269616E676C65732E62696E504B01021400140006080000BB70623B000000000000000000000000370000000000
+310
+0000000000000000D50E00006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F617474726962757465732E62696E504B01021400140006080800BB70623B08DA0BD1900000004101000036000000000000000000000000002A0F00006662782F31434636414139362D42
+310
+3739322D343433442D384532322D3734423743304141443934342F6469726563746F72792E786D6C504B01021400140006080800BB70623BB9DDCA38FF000000A00100003B000000000000000000000000000E1000006662782F31434636414139362D423739322D343433442D384532322D3734423743304141443934342F
+310
+7265736F75726365732F636F72652E786D6C504B0506000000000E000E0080040000661100000000
+  0
+XRECORD
+  5
+18F
+102
+{ACAD_REACTORS
+330
+18C
+102
+}
+330
+18C
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+190
+102
+{ACAD_REACTORS
+330
+18C
+102
+}
+330
+18C
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+CELLSTYLEMAP
+  5
+CA9
+102
+{ACAD_REACTORS
+330
+17C
+102
+}
+330
+17C
+100
+AcDbCellStyleMap
+ 90
+        3
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+    32768
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        5
+ 62
+     0
+340
+11
+144
+0.25
+309
+CONTENTFORMAT_END
+171
+     1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.18
+ 40
+0.18
+309
+CELLMARGIN_END
+ 94
+        6
+ 95
+        1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        1
+ 91
+        1
+300
+_TITLE
+309
+CELLSTYLE_END
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+        0
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        5
+ 62
+     0
+340
+11
+144
+0.18
+309
+CONTENTFORMAT_END
+171
+     1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.18
+ 40
+0.18
+309
+CELLMARGIN_END
+ 94
+        6
+ 95
+        1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        2
+ 91
+        1
+300
+_HEADER
+309
+CELLSTYLE_END
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+        0
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        2
+ 62
+     0
+340
+11
+144
+0.18
+309
+CONTENTFORMAT_END
+171
+     1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.18
+ 40
+0.18
+309
+CELLMARGIN_END
+ 94
+        6
+ 95
+        1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        3
+ 91
+        2
+300
+_DATA
+309
+CELLSTYLE_END
+  0
+ENDSEC
+  0
+SECTION
+  2
+ACDSDATA
+ 70
+     2
+ 71
+     8
+  0
+ACDSSCHEMA
+ 90
+        0
+  1
+AcDb_Thumbnail_Schema
+  2
+AcDbDs::ID
+280
+    10
+ 91
+        8
+  2
+Thumbnail_Data
+280
+    15
+ 91
+        0
+101
+ACDSRECORD
+ 95
+        0
+ 90
+        1
+  2
+AcDbDs::TreatedAsObjectData
+280
+     1
+291
+     1
+101
+ACDSRECORD
+ 95
+        0
+ 90
+        2
+  2
+AcDbDs::Legacy
+280
+     1
+291
+     1
+101
+ACDSRECORD
+  1
+AcDbDs::ID
+ 90
+        3
+  2
+AcDs:Indexable
+280
+     1
+291
+     1
+101
+ACDSRECORD
+  1
+AcDbDs::ID
+ 90
+        4
+  2
+AcDbDs::HandleAttribute
+280
+     7
+282
+     1
+  0
+ACDSSCHEMA
+ 90
+        1
+  1
+AcDbDs::TreatedAsObjectDataSchema
+  2
+AcDbDs::TreatedAsObjectData
+280
+     1
+ 91
+        0
+  0
+ACDSSCHEMA
+ 90
+        2
+  1
+AcDbDs::LegacySchema
+  2
+AcDbDs::Legacy
+280
+     1
+ 91
+        0
+  0
+ACDSSCHEMA
+ 90
+        3
+  1
+AcDbDs::IndexedPropertySchema
+  2
+AcDs:Indexable
+280
+     1
+ 91
+        0
+  0
+ACDSSCHEMA
+ 90
+        4
+  1
+AcDbDs::HandleAttributeSchema
+  2
+AcDbDs::HandleAttribute
+280
+     7
+ 91
+        1
+284
+     1
+  0
+ACDSSCHEMA
+ 90
+        5
+  1
+AcDb3DSolid_ASM_Data
+  2
+AcDbDs::ID
+280
+    10
+ 91
+        8
+  2
+ASM_Data
+280
+    15
+ 91
+        0
+101
+ACDSRECORD
+ 95
+        5
+ 90
+        1
+  2
+AcDbDs::TreatedAsObjectData
+280
+     1
+291
+     1
+101
+ACDSRECORD
+ 95
+        5
+ 90
+        2
+  2
+AcDbDs::Legacy
+280
+     1
+291
+     1
+101
+ACDSRECORD
+  1
+AcDbDs::ID
+ 90
+        3
+  2
+AcDs:Indexable
+280
+     1
+291
+     1
+101
+ACDSRECORD
+  1
+AcDbDs::ID
+ 90
+        4
+  2
+AcDbDs::HandleAttribute
+280
+     7
+282
+     1
+  0
+ACDSRECORD
+ 90
+        0
+  2
+AcDbDs::ID
+280
+    10
+320
+22
+  2
+Thumbnail_Data
+280
+    15
+ 94
+     4514
+310
+89504E470D0A1A0A0000000D4948445200000100000000730802000000F8D14BEA000004284944415478DAEDDDC16A14591487F1CAE0A3B86A6314871144F005B248A0214823C3C0802E7C2217BA10892234C4455E20A282C33431C646C457515C5CB9965D49A7BBD255752BF7F72DC46090A4FBFF9D73EEADDB5545010000
+310
+000000000000000000000000000000000000000000000049B1E625489683C934FCE5CE8D81578300D9457F7A7C3458DF087FD280007945BFFA4F342040A6D1A70101449F060410FD9334600201B28BBE864000D1A70101449F0604107D1A1040F4694000D1A70101449F0604107D1A1040F439701697BC04F9443FA4FFD5CB
+310
+DDAD9D91378E00D945DF5B46807CA3FFEAE56E51146A3F01328A7E9C79BC7104C831FAB1F047C840804CA30F02883E087041A36FDC2740D6D157F8EBE14A7076D1DFDA19B90CAC03A8FA20402552FD3AD1E02D23C0CAD8DF1B1745B1B93D4CDC01859F00CD6AB0B93D4C731C127D02B4DA0A92D2C0CCD3107F78098AA2B873
+310
+6310125FD6607F6F9CC209CAC1FAC6AAD2EF249C0ED0A789A8B99927EC7AD90C2540A213513BE33E0D08B0B4062D38D0DCB81FFFDBF05B846DDF83C9346707AC0196D3204CE4E98FFB8B7498F8E80D1D001DB78296B738E30FCF011DE03766F682DA6905A1EAB7937E1B413AC0D905BEB5C57127D7B6E24F6BFE2140671351
+310
+E79775E3FD51EC0261051A2CDE0A52887E1C875C0A20C08A5BC17C0DD239D120FA045874295C63615075209DA36CA25FC627C27E713099960B790CEBD6CE687107CA0AC5EB4D29443FECFF483F01CE106026FDB51DA88AD46DFA45DF08549FB061B2AC0351A76EABBEC23F0717C29670A0DB34D79EF8A55F07E8B20F28FC3A
+310
+40CFF8FAE943DF8F0C28FC3A407D2E5FB9367F699B6C13B0D54380C6B3153E4792E64F28FA04382F61EBE6FDDBD75B3BA3F2432562B68203493501859F00AB77A02FC152F809D008EFDFBDB979EB76CAD952F8CF8F5DA0D9056E6C02376FDD3EFCFFBFD326FECEAF7085C22FFD045819214C6507AEFFF9D7F1D161D5816E63
+310
+27FA46A0661D886BDCB018F8F4F1C3CCAD13BA5A049B7974809634D8DC1E8656B0BF37BE72F5DAC7C349E7BB9F0ABF0ED04D2B087DE0CBE769570E28FC04E84C8310FA99739D6DCE3F76390990D0AA40E12740EEAD40E12740D6ADA0E92948E12740A21C4CA6F1D3EE0D9D0955F809906EFACB5F4E8F8FE23EA9C24F802CD2
+310
+3F73B393F0E54A5A81C24F807E4C3E55CED90A147E02F49E7AAD40F409D0FBF25FBB15987908D0CBF4976F295E15639156A0F02785C370672C7CCBD11FAC6F3C7BFCE84419AAADE0C40F0C38D0A603F46FB82F73EFDF073357C4E6AF0A147E025C1CCAF15DEAF61026FE647173DC9A0B80E2F4E700C46F1BEF3E1D8EFE56F8
+310
+09D0E33540D581F064C5D39E0050CEBDE813E082AC83E73FF445EE0970911D18BF7836BC7BEFB46F907B02E4D2079E3F7DF2FDDB4FD6D68A7FEE3F947B02E46882DC0300000000000000000000000000000009F003987BC6D41D4C5B720000000049454E44AE42608257864A20504AD5BC9AAE8A334FCB4AB74E99C38FFFF7
+310
+BFA514888CA15E058AFB0E400BF45BECD2C50B59E68004060AB1EA55D7BC698DC5775FB74C3A880A115121328C73217477E85B0E008064C0880895DDC8ECD71CC741C5152A64A810AF7FCBF59D42E52A46D13EA1DFC201C85EA30C9FDDBB8F88945264ABE2FAC87F1CC15CD7715CC7711CE9388E13C78EA2A9FCF64B172FF4
+310
+8F7EC30143832CA54000A46540AD6621DED35CD755BEF2B9E25C71AE50F1B8417F20C76FD32109005A06785EF5FCE992D5BEDD2DE7E67CE1735F29A594F27D746292FF0C0FFD6C72400200034044DF57A18BDAB3B009B054AEBCE3869FF17D5FF84208DFF79552DCBFEAA5C0EB675912C8A3879F9CDDBB7FFE89034A29242B
+310
+03BABAFF5C4E088D7F2184FF5FAFFFDFEA46CB51403FC801C8C02E8104C6B40CF09552BE6F51DEC9FDDFB2619DEFA3EE8357420825BA4373A4DC1829F433950EC97AD6C30051799E77EEF4492B03DABB7F0784E042B83A00BCFACA0FD3E7F533C801A9BB6118002AACD5BC6BD85A8BF595EEFFF689750820380817446308CA
+310
+98E5EFF8A19F0549D058C6660C8994423B24A293F1C62F2160CC0DC0AB08FDD44B020E4047E79F9CBD7F1F01E8C5BD103FA5543896D60D14EDFECD5F05800BF0CD0B2F8E274B9CCA6F0FB7AB35EA50909E0840044CF70413A05235AF76F6F9676D734C5BF4F709D948B81107AF9F0549208108F470385B15D79F9D1DB1FB8F
+310
+2DF4532909A490529F6FC518D3158E76484417F7DF1DFD43BAFFF8433F7D92804FEF9A0580A00C203BE266EC16B75C3F3B9240020010191960ABE2C6ECFE13E4F55329093800101034B7C3EA557116FDE371FC89F3FA9D3890D05020018073A19BE2193044F47D3F44559C5E094D812AEA84FE68DD7FD21D7F6A24012F150B
+310
+DBEFBDAF2E03F6EE23223F8A211129B308D19FD0743FAD92A0D1CF41A4177F74738CEFFB90C9931496CA955B27D67900A358074831F493CB817A290401D5D31E06A894E779E79E3FF9DE3BEFCA1AFA7FE9E69BBC2AA003C8410208001685FB8F43C2B361E344CF1C26C23B99945CA84E00CEB9CE7A188042F46ADE356B07AE
+310
+8A4BB40C582A577EF6ED3778D52AA2522895144A8264F0F5E1B6BD561DFA06F74FCD1DF4952202C618E79CE92FC6743DFC8E99DD519121597A400240A958D87EEFEEC5854381E6986C55C52D952B3FF996EBAA75F42BA55029894A965FFCB7EEE8EFE2FE6302FDF3A74B57AE5C79E3EAD5E6E3648D3F5873CFF3E8FC1C1139
+310
+8E23A5FC8DE99D91D020111C08F67493698E514AA9CC0C4A592A57D6B88EE7553DAF5AAD56AB554FFF77292CFAE390EB6BF49F7BFE24001051D39D755EDE33DF39F9CCD33D53A6D4E8812601A88E7F00D0B3E2BC103A387165A14BE50AA99A67AC81FEAA57ED99DBAC447F4C64EE868D13F34FFC830635011111102C0BE9AC
+310
+1D11744060ECAE0F6C3B75E2F8E9D2892C70A039D686D51B63803140C4AA573D7FA674DBE6A974FBFE37AEFC580881888812119540898888FFF1A3D713BAAEBF61E3C4E38F7EF1DA375FAB714EDAA0FBCA363520C058201C9C79EED9CDEFDF92E235AB6504701CB756AB3DB54C0684A98A4B8A145E2A57FEE7F51F09C111A9
+310
+F10BA54444BCF2C6D5FE939F386E6931305B99A477FAA9FEFABEBDFB836F5C5C985BEE015B9FF9F01C88B918A813A0542CE477EC5A5C98D3374E8F8C4E7155DC52B9F29FFFFE1AE79C88734E440112B8BC4FF4C776379701338BDAB7DFB16C2DBB05882DF94961F1488001F517A74E3CF3BEBB3F90D638B06CB25F530604AA
+310
+E242D478C53C082C952BAFFDE0FB8C736A1A474E48E8BEE99A7E3E6CDC0B1918E8333B6EDB3CD5FD2974E283D10875F910851288271EF88A5C30B81D563D97AEAA385DB3F5FD57BF8788585FEED423DE9452FEDA6BAFEB734B0BE25DC6C380DDB37BEFA6C9F58362CE5C72E796ADCC78C554D7C52C2380E3B88D74902151CD
+310
+F7F5D149216A2262B81CB454AE7CEFF22BAF7EF732D5731DCD02D4E7835CFFD69FEA07FDFA3DA56261F8159211D9A58B17F67FEC13C3B85B4D83CD535B2003D62440A958F8CD9DF7367BE4F5C8E821D81F2B0EE8937DC1A43CD824C1DB6E78C74FBFED86FED16F6ED7868D13B1A5C1F0777ED3E4FACDEFDF0200535BF3295E
+310
+086A9DEE6D7AE4894029F4879B15170731A0A170F9E5EF30006260D6437407D0DB7FEEE7FB4CFA57BEAD542C687CC42D238AAA1861D3E4FAD44F4BE72B08D010C20C54A32A0E925919AA33FECBDF79E9F2CB2FE97A5722686C8C1211BDF3C6F0E80FD2209E19D1F07D2AFADAACEC03346480A34703E9E698705571AB1E04F4
+310
+937BE9C58A2EF90230ABBB40C418D08DEFBE093A8F76EB1FFD411AC4301440D8090E8636E9467F2B014AC5C2B67B661617E674738C1E19AD71532A1C0B3DF2C0888131D0C03CB9CAB7BFC539D367B973CE007863A79BDEF5EE9BFBFC20037D649311C50734FA5F6232A2606ED35D36A41EF71D23C00A19A0CCF1614372602A
+310
+BF7DA434D03FFCC237BEAECB7D6F99B8F55FBF7D9113304E409C71E28CFFC24DBFD8A7E387CED53E26EFD7884F5028E82E9147F70F8EED52417B0200917697C04029F4BC68CE8030BBA7D1D2C03CCB7F397F96F1BA01C0C50BDFDC38712B00542E7D0B18306037AD5B3750E362CB9B35F483FFECA572A51307E2298E33E8E0
+310
+C3104038527B7D7D724C357074D2304120180A3EBC6797016E382698CBCF9C3AD938B49D735DF4A5B776892E96BFC138BFE55726830C0C81FE95D06F5924694B0300585C98DB31B327E3B0D3EE3FEEB54041EF357DCFECE2C2A1A3F3CD93638045392BAE5438F6D5B92300F0C0FE3D6BD65CD3361C9BFBD56911E3F8D38B82
+310
+732E84E00284C67CFD0F0E040D264C4EFEEA40D08776856E5D1E9EFE56DB50502A1676CCEC09569B593224240582D61E790A1C863E7C1030887CF4C01C007CEAA3FBDD5CCE755CC775A5E34829A5740CEE1F7FF48B424A2E84E05C0821841442E8572484202251FF6A7200E8D76EBF7D50AFDF82FE9ED01F28149880903532
+310
+E8DAEC0F3DF0C98411A0D9230F6D66C545C20183CE2F3C7600003EFD898FE89D594224A2CFFFD9C3523A420A21641DD74298044798DF0D074010D1AFBFEFAE70B85F89FE105534265E75A74176C8B061E3C4C1AF7C39E6A544ED092084402400605A0757AB2D472745C50103D6CFFDEDDF9BFFF3D9871ED4342092A6764110
+310
+8130E047C381FCAED9961F150EFAE6430D93B076C988B246860D1B270E1F7C9CA229271D2F014AC5C2F4AEFB823DF235DFE76CB4274207B1FBD067FF22DC85A1D1AFA11FD561AFC35410A4800C5AF52ECE7F8D9008E9777EF75371EE8E929DBFD5E891D7CD312B0259844120724C0FEAFB233FE7D884020DE220ACD34D860D
+310
+1B274E1D7FBA5AAD9AD09D4C110C40D4900104CA57BEF2DB2235B9474A9AEAA6D1F9A7B66B5969258376FC2F948E07DA8C68C8C2ECD524809998AB4F8EF1AA5E276F9D440E0C99EB876642900CE198103732985DDEF3679E4344303B31481FFCED8FC4BF35BC3D01F4C4DCC58543D03839C6AB79E7CF94DA570537B4632268
+310
+3066E88F342CAC22190CEE5F281D975232C6A1897D9DFC27A38F4C76FD2E1D9D9F9BBDDF54C5F5C8DA631E0A561DFAFD848538932158D2F3CCE202E7DC755CC7714CFB3C05483073FFBEC48C46EC29038840F9CDAAB82E34882707E206FD3190A1716DEBDCCF3E59D1B67CEDC8DC415D6AB57D660F98D92BFAB740AFC5966D
+310
+3B2139E7E7752300334B9F0C142AAFD6BB2A2E86E950FCD13FFAC870C8F834332268E7EC07BB5C72F889037597AE2788360CC09C25C4F4605DB6CC63C29D77E793351DB923014AC5C28E99DD7519004C29AC569B5571FDA443AB4B83312CF2244E3D07EDE8E12709967DE9098AFA651DFD2D0EB13E39D0F84743030080DBEE
+310
+984AE2DD96BDDE40C1E698FE8F4E5A451AA403FA2350CF34F03756A404C060FADE3D85A7E6B9E0FAAFC040CFCF4CE8DDEE418065CD31BE421A6C56DC386910EC5A4E19F4479123515812D413200006EC8E2DF9A4DF6DD917EFA1DE231FEE04D5200D2267424BB77EBAA1DF3F19C206056A87F7652F0020BF733635779B752F
+310
+BC99DA9A5F5C38B46366F7FC130738E7D7BDF9DAB56B7FE2BD77DE35FCA129A1C9D082F8E12BD85269CB23C32103EEC6EA3C3507642CCFFEC9BC8B02DE8FB199FBF7A5D2CBC87EDC84698EA9F93EE3C356C5AD6CB61AE6F2C8CB783215198E1CFA5A8BFF9FDDBBAFE70F4C93F52640FD04615D15E72B8874876FC84862A13F
+310
+2819BA048A6CE690FD1080749BB91E19DDB62A6ECC66739E3170C312A06EAEEBEA0189AC6B559C85BEB5245A8F84BE3931F7F093B37BF707ABE2C60F7D9DF358F45B1BB308D62DF27A378094AFACD7B7962D020011E3815971E33A3AC942DFDAC80930B535DFB3835B3626E69A91D116FAD652A201364DAED743FCBAC8806D
+310
+F7CCE8D78C3185CDAA389BEB5B4B8308EEC9019D05E9E6187D720C8B74565C10FD16FAD6564103E8491E5D7221332A2B5C559CCD79ACC55D0477E78010B2AE7D19F84AD56ABE85BEB594A440410EB4CD854AC5C27463005BFDE498EA559BEE5B4B1B017AE9013A3A3F37BB771F22D67CFFFC99E742EB600B7D6BB14B817AE6
+310
+422D3DF2E1AAE26CC2632DEE04E8C481E0A82C5F295F290B7D6B694B813AE5427A545643068052CAAB566DC2632DE9F6FFDDA9AB5089FB72CA0000000049454E44AE426082
+  0
+ACDSRECORD
+ 90
+        5
+  2
+AcDbDs::ID
+280
+    10
+320
+B28
+  2
+ASM_Data
+280
+    15
+ 94
+    27963
+310
+41534D2042696E61727946696C65341C57000000000000020000000400000007104175746F6465736B204175746F434144071441534D203232382E302E302E3635353335204E540718547565204A756E2032312031353A31343A32322032303232066666666666663940068DEDB5A0F7C6B03E06BBBDD7D9DF7CDB3D0D0961
+310
+736D6865616465720CFFFFFFFF04FFFFFFFF070D3232382E302E302E3635353335110D04626F64790CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C020000000CFFFFFFFF0C03000000110D046C756D700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C040000000C01000000110D097472616E73666F726D0CFFFFFFFF04FFFF
+310
+FFFF14000000000000F03F00000000000000000000000000000000140000000000000000000000000000F03F00000000000000001400000000000000000000000000000000000000000000F03F1400000000000000000000000000000000000000000000000006000000000000F03F0B0B0B110D057368656C6C0CFFFFFFFF
+310
+04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CFFFFFFFF0C050000000CFFFFFFFF0C02000000110D04666163650C0600000004FFFFFFFF0CFFFFFFFF0C070000000C080000000C040000000CFFFFFFFF0C090000000A0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF
+310
+04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C050000000401000000041D00000004020000000400000000110D04666163650C0A00000004FFFFFFFF0CFFFFFFFF0C0B0000000C0C0000000C040000000CFFFFFFFF0C0D0000000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C0E0000000C0500000011
+310
+0E04636F6E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF133AF225B8076109C0B3A5A09D7069574000000000000000001400000000000000000000000000000000000000000000F03F1400000000000001BD1000000000001440000000000000000006000000000000F03F0B0B0600000000000000000600
+310
+0000000000F0BF0610000000000014400B0B0B0B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C070000000401000000041500000004020000000400000000110D04666163650C0F00000004FFFFFFFF0CFFFFFFFF0C
+310
+100000000C110000000C040000000CFFFFFFFF0C120000000A0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C130000000C07000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1390522B5B811FE63FB5A5A09D70295940000000000000000014E2BF828D2C62
+310
+D8BF8821853E2596ED3F0000000000000000148821853E2596EDBFE2BF828D2C62D8BF00000000000000000B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C140000000C150000000C160000000C170000000A0C0800000004000000000CFFFFFFFF110E09706572737562656E740E106163616453
+310
+6F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C0B000000040700000004090000000401000000040000000004010000000400CA9A3B040100000004030000000400CA9A3B040100000004060000000400CA9A3B0401000000040D0000000400CA9A3B04E9030000041200
+310
+00000400CA9A3B04EA03000004150000000400CA9A3B0401000000110D04666163650C1800000004FFFFFFFF0CFFFFFFFF0C190000000C1A0000000C040000000CFFFFFFFF0C1B0000000A0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C1C0000000C1D0000000C0B000000110E05706C616E650D0773757266
+310
+6163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF134835B14236B41AC0C334EB6186A4554000000000000000001400000000000000000000000000000000000000000000F03F14000000000000F03F000000000000000000000000000000000B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C1E000000
+310
+0C1F0000000C140000000C200000000B0C0C00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C210000000C0E0000000C130000000C200000000A0C0800000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C0E0000000C210000000C22
+310
+0000000C230000000B0C0800000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C240000000C250000000C0E0000000C170000000B0C2600000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C2700000006F5C529A3FF03D9BF0C280000000600
+310
+000000000000000C160000000C290000000B0707756E6B6E6F776E110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C1000000004050000000411000000040300000004000000000401000000040800000004000000000409
+310
+0000000400CA9A3B0401000000040D0000000400CA9A3B04ED03000004120000000400CA9A3B04EB030000110D04666163650C2A00000004FFFFFFFF0CFFFFFFFF0C2B0000000C2C0000000C040000000CFFFFFFFF0C2D0000000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C2E0000000C2F0000000C1000
+310
+0000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1301D5CA56E0870540473F3A370A335B404E0DF5225820234014000000000000F0BF0000000000000000075C143326A6913C14075C143326A6913C0000000000000000000000000000F03F0B0B0B0B0B110D046C6F6F700CFFFFFFFF04
+310
+FFFFFFFF0CFFFFFFFF0C260000000C300000000C0B000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C1D0000000C1D0000000C310000000C320000000A0C1100000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C330000000C130000000C250000000C340000
+310
+000B0C0C00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C130000000C330000000C350000000C360000000A0C0C00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C370000000600000000000000C00C27000000060000000000000080
+310
+0C130000000C380000000B070774616E67656E74110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C150000000C140000000C390000000C3A0000000A0C0800000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3B0000000C3C0000000C150000000C230000000A0C3D
+310
+00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3E0000000600000000000000C00C280000000600000000000000800C220000000C3F0000000B070774616E67656E74110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C400000000C160000000C3C0000000C41000000
+310
+0B0C2600000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C160000000C420000000C1E0000000C340000000A0C2600000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C430000000C160000000C0B000000110D067665727465780CFFFFFFFF
+310
+04FFFFFFFF0CFFFFFFFF0C3400000004000000000C44000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C4100000004000000000C45000000110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF133AF225B8076109C0B3A5A09D706957400000000000000000140000000000
+310
+0000800000000000000080000000000000F0BF1400000000000001BD1000000000001440000000000000000006000000000000F03F0B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C19000000040100000004010000
+310
+0004060000000400000000110D04666163650C4600000004FFFFFFFF0CFFFFFFFF0C470000000C480000000C040000000CFFFFFFFF0C490000000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C4A0000000C19000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFF
+310
+FFFF13722383CF0B795440E8D8D3D0A3DC52400000000000000000140000000000000000000000000000F03F000000000000000014000000000000F0BF000000000000000000000000000000000B0B0B0B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C4B0000000C10000000110D06636F656467
+310
+650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C4C0000000C4D0000000C4E0000000C4F0000000B0C1A00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C300000000C300000000C500000000C510000000A0C1C00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04
+310
+FFFFFFFF0CFFFFFFFF0C310000000C310000000C1D0000000C320000000B0C5200000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C5300000006182D4454FB2109C00C5300000006182D4454FB2109400C310000000C540000000B0707756E6B6E6F776E110D06636F656467650CFFFF
+310
+FFFF04FFFFFFFF0CFFFFFFFF0C1F0000000C1E0000000C550000000C560000000B0C0C00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C27000000061E68698100F518400C570000000633615E3587582F400C1E0000000C580000000B0707756E6B6E6F776E110D06636F65646765
+310
+0CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C590000000C390000000C1F0000000C360000000B0C5A00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C37000000061E68698100F518400C5B0000000633615E3587582F400C1F0000000C5C0000000B0707756E6B6E6F776E110D06766572
+310
+7465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3600000004000000000C5D000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1325D54BC8314F14C005D911124E91584000000000000000001400000000000000800000000000000000000000000000F0BF0B0B110D06636F65646765
+310
+0CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C350000000C5E0000000C210000000C3A0000000B0C5A00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3E0000000600000000000000000C3700000006F5C529A3FF03D93F0C390000000C5F0000000B0707756E6B6E6F776E110D06636F65
+310
+6467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C600000000C220000000C5E0000000C610000000A0C3D00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C220000000C600000000C240000000C410000000A0C3D00000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04
+310
+FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C220000000C62000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C2300000004000000000C63000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF133AF225B8076109C0B5A5A09D70A958400000000000000000140000000000
+310
+0000000000000000000000000000000000F0BF0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C640000000C240000000C650000000C660000000B0C2600000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C28000000064075A20D1A0CC7BF0C6700000006999F166E
+310
+26780D400C240000000C680000000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C250000000C690000000C6A0000000C6B0000000A0C2600000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C6C0000000C0B000000110D05706F69
+310
+6E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1324D54BC8314F14C003D911124E9158400000000000000000110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF134BF225B8076109C0B4A5A09D70A958400000000000000000110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269
+310
+620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C2B0000000401000000040100000004040000000400000000110D04666163650C6D00000004FFFFFFFF0CFFFFFFFF0C6E0000000C6F0000000C040000000CFFFFFFFF0C700000000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C71000000
+310
+0C2B000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B995440E9D8D3D0A3DC5D40000000000000000014000000000000F0BF00000000000000000000000000000000140000000000000000000000000000F0BF00000000000000000B0B0B0B0B110D06636F656467650C
+310
+FFFFFFFF04FFFFFFFF0CFFFFFFFF0C720000000C730000000C740000000C750000000B0C2C00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C4B0000000C4B0000000C760000000C770000000B0C2E00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFF
+310
+FFFF0CFFFFFFFF0C780000000C2F0000000C730000000C790000000B0C1A00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C2F0000000C780000000C7A0000000C7B0000000B0C1A00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF
+310
+0C7C0000000C740000000C2F0000000C4F0000000A0C7D00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7E0000000602000000009040C00C7F000000060000000000C026400C2F0000000C800000000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFF
+310
+FFFFFF0C500000000C500000000C300000000C510000000B0C8100000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C8200000006182D4454FB2109C00C8200000006182D4454FB2109400C500000000C830000000B0707756E6B6E6F776E110D046C6F6F700CFFFFFFFF04FFFFFFFF0C
+310
+FFFFFFFF0CFFFFFFFF0C310000000C84000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3200000004000000000C85000000110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13087E801D3BD124C0E8D8D3D0A39C55400000000000000000140000000000000000000000
+310
+0000000000000000000000F0BF140000000000000C400000000000000000000000000000000006000000000000F03F0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C6A0000000C860000000C330000000C560000000A0C8700000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0C
+310
+FFFFFFFF0C570000000600000000000000000C5B0000000600000000000000400C330000000C880000000B070774616E67656E74110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3400000004010000000C89000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF139052
+310
+2B5B811FE63FB5A5A09D702959400000000000000000148821853E2596EDBFE2BF828D2C62D8BF00000000000000000A0600000000000000000A0633615E3587582F40110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C8A0000000C350000000C860000000C8B0000000B0C5A00000004000000000CFFFFFFFF
+310
+110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C8C0000000C390000000C8D000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C5600000004020000000C8E000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1390522B5B811FE63FB5A5A09D7029594000
+310
+00000000000040148821853E2596EDBFE2BF828D2C62D8BF00000000000000000B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1324D54BC8314F14C003D911124E9158400000000000000040110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C390000000C8F0000000C3B0000000C610000000B
+310
+0C5A00000004000000000CFFFFFFFF110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF133AF225B8076109C0B3A5A09D7069574000000000000000401400000000000000000000000000000000000000000000F03F1400000000000001BD100000000000144000000000000000000600000000
+310
+0000F03F0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3C0000000C3B0000000C900000000C910000000B0C3D00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C9200000006999F166E26780DC00C3E000000064075A20D1A0CC73F0C5E0000000C930000000B
+310
+0707756E6B6E6F776E110D04666163650C9400000004FFFFFFFF0CFFFFFFFF0C950000000C3D0000000C040000000CFFFFFFFF0C960000000A0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF134BF225B8076109C0B4A5A09D70A958400000000000000040110D06636F656467650CFFFFFFFF04FFFFFFFF0CFF
+310
+FFFFFF0C970000000C400000000C980000000C990000000A0C2600000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C900000000C9A0000000C400000000C660000000A0C9B00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C6700000006
+310
+9087ABDD512714400C9C00000006B4AE3744A1563C400C650000000C9D0000000B0707756E6B6E6F776E110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C4100000004010000000C9E000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13F7CA4B1746F007C0B5A5A09D
+310
+70A95840000000000000000014000000000000F03F000000000000000000000000000000800B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C420000000C9F0000000CA00000000CA10000000A0C2600000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CA20000
+310
+000C550000000C420000000C6B0000000B0C8700000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C570000000600000000000000000CA30000000653E19CE65B7903400C6A0000000CA40000000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C
+310
+A50000000CA60000000C780000000CA70000000B0C4300000004000000000CFFFFFFFF110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C470000000401000000041C00000004010000000400000000110D04666163650CA8
+310
+00000004FFFFFFFF0CFFFFFFFF0CA90000000CAA0000000C040000000CFFFFFFFF0CAB0000000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CAC0000000C47000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF131A7A39D24A454540DDD8D3D0A36C584000
+310
+000000008044401400000000000000000000000000000000000000000000F03F14000000000000F03F075C143326A6A1BC00000000000000000B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CAD0000000CAE0000000CAF0000000CB00000000B0C4800000004000000000CFFFFFFFF110D06636F
+310
+656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CB10000000C4A0000000CAE0000000CB20000000B0C2C00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C4A0000000CB10000000C4C0000000C790000000A0C2C00000004000000000CFFFFFFFF110D06636F656467650CFFFF
+310
+FFFF04FFFFFFFF0CFFFFFFFF0C4E0000000CAF0000000C4A0000000C750000000A0C7D00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7F000000062D33333333C34DC00CB300000006CECCCCCCCC2C34400C4A0000000CB40000000B0707756E6B6E6F776E110D06636F65646765
+310
+0CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C760000000C760000000C4B0000000C770000000A0CB500000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CB60000000600000000000000000CB600000006182D4454FB2119400C4B0000000CB70000000B0707756E6B6E6F776E110D06636F65
+310
+6467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C4D0000000C4C0000000C6C0000000CA70000000A0C1A00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7F00000006565EA1FBF49B40C00CB800000006510DF522582013400C4C0000000CB90000000B0707756E6B6E6F776E110D06
+310
+636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CBA0000000CBB0000000C4D0000000C7B0000000A0CBC00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CBD0000000600000000000000000C7E0000000600000000000043400C7A0000000CBE0000000B0707756E6B6E6F776E
+310
+110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CAF0000000C4E0000000CBB0000000CBF0000000A0C7D00000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C4E0000000CC0000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7B00000004
+310
+020000000CC1000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7900000004020000000CC2000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13A0D4CA56E0870540E8D8D3D0A3B455400000000000004340140000000000000000000000000000F0BF00000000
+310
+000000000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C500000000CC3000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C5100000004000000000CC4000000110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF130CBD1C69A55257404E3F3A37
+310
+0AC3544000000000000000001400000000000000000000000000000000000000000000F0BF140000000000000C400000000000000000000000000000000006000000000000F03F0B0B110D04666163650CC500000004FFFFFFFF0CFFFFFFFF0CC60000000CC70000000C040000000CFFFFFFFF0CC80000000B0B110D05706F
+310
+696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13087E801D3BD12BC0E8D8D3D0A39C55400000000000000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C550000000CA20000000C590000000C8B0000000A0C8700000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFF
+310
+FFFFFF0CA20000000CC9000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13CC410FE855992BC00A81F99A47AB574000000000000000001400000000000000000000000000000000000000000000F03F0B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13CC410FE855
+310
+992BC00A81F99A47AB57400000000000000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C8F0000000C590000000CCA0000000CCB0000000B0C5A00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C5B0000000600000000000000000CCC0000000653E19CE65B79
+310
+03400C860000000CCD0000000B0707756E6B6E6F776E110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CCE0000000C8D000000110D04666163650CCF00000004FFFFFFFF0CFFFFFFFF0CD00000000C5A0000000C040000000CFFFFFFFF0CD10000000B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0C
+310
+FFFFFFFF13CC410FE855992BC00A81F99A47AB57400000000000000040110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C5E0000000C8A0000000CD20000000CD30000000B0C5A00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CD20000000C650000000C600000
+310
+000C910000000A0C9B00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C920000000600000000000000000C670000000600000000000000400C900000000CD40000000B0707756E6B6E6F776E110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CD300000004020000000C
+310
+D5000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13F7CA4B1746F007C0B5A5A09D70A95840000000000000004014000000000000F0BF000000000000000000000000000000000B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D06617474726962
+310
+0CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C620000000401000000041600000004020000000400000000110D04666163650CD600000004FFFFFFFF0CFFFFFFFF0CD70000000CB50000000C040000000CFFFFFFFF0CD80000000A0B110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13
+310
+88522B5B811FE63FB5A5A09D70A958400000000000000040140000000000000000000000000000F0BF000000000000000014000000000000F0BF000000000000008000000000000000800B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CD90000000C640000000CDA0000000CDB0000000A0C2600
+310
+000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CDC0000000CDD0000000C640000000C990000000B0CDE00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CDF0000000600000000000000000C9C00000006CBCCCCCCCCEC54400C64000000
+310
+0CE00000000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C650000000CE10000000CDC0000000CE20000000A0C9B00000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C650000000CE3000000110D067665727465780CFFFFFFFF04
+310
+FFFFFFFF0CFFFFFFFF0CE200000004020000000CE4000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1398522B5B811FE63F3CEDC57FFB665740000000000000000014000000000000BCBC000000000000F03F00000000000000000B0B110D05706F696E740CFFFFFFFF04FFFFFFFF
+310
+0CFFFFFFFF1387522B5B811FE63FB5A5A09D70A958400000000000000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C690000000CD90000000CE50000000CE60000000A0C2600000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CE70000000CE80000000C6900
+310
+00000CA10000000B0CE900000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CA30000000600000000000000000CEA000000066EAEC8DC64302D400CA00000000CEB0000000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C860000000C6A000000
+310
+0CE80000000CEC0000000B0C8700000004000000000CFFFFFFFF110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C6B00000004020000000CED000000110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13097E801D3BD124C0E8D8D3D0A39C554000000000000000001400000000
+310
+000000800000000000000000000000000000F03F140C0F3B2A6B200BC010412D511E752040000000000000000006000000000000F03F0A0600000000000000000A0653E19CE65B790340110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CEE0000000C6C0000000CB10000000CEF0000000A0C43000000040000
+310
+00000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C6C0000000CEE0000000CBA0000000CF00000000B0C4300000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CBD00000006000000000000F8BF0CB80000000602000000008045400C780000000CF1000000
+310
+0B0707756E6B6E6F776E110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C6E00000004030000000407000000040600000004000000000401000000040C0000000400000000041C00000004120000000400000000110D0466
+310
+6163650CF200000004FFFFFFFF0CFFFFFFFF0CF30000000CF40000000C040000000CFFFFFFFF0CF50000000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CF60000000C6E000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B195540E8D8D3D0
+310
+A39C5240000000000000A03C14000000000000F03F00000000000000000000000000000000140000000000000000000000000000F03F00000000000000000B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CF70000000CF80000000CF90000000CFA0000000B0C6F00000004000000000CFFFFFFFF
+310
+110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFB0000000C710000000CFC0000000CFD0000000B0C4800000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C710000000CFB0000000C720000000CB20000000A0C4800000004000000000CFFFFFFFF110D06636F6564
+310
+67650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C740000000C7C0000000C710000000CB00000000A0C7D00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CB30000000602000000009040C00CFE000000060000000000C026400C710000000CFF0000000B0707756E6B6E6F776E110D0663
+310
+6F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C730000000C720000000CA50000000CEF0000000B0C2C00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CB30000000600000000000043C00C000100000600000000000000000C720000000C010100000B0707756E6B6E6F776E11
+310
+0D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CB200000004020000000C02010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF137DE09F38B11B4F40E8D8D3D0A3DC5240000000000000434014000000000000F03F000000000000000000000000000000000B0B110D046C
+310
+6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C030100000C760000000C95000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7700000004000000000C04010000110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1301D5CA56E087054085726D6A3DAA5A40A03833333393
+310
+2C4014000000000000F0BF0000000000000000075C143326A6913C14000000000000000000000000000000009A999999993926C006000000000000F03F0B0B110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7900000004020000000C05010000110E0873747261696768740D0563757276650CFFFFFFFF04FF
+310
+FFFFFF0CFFFFFFFF1300D5CA56E0870540E8D8D3D0A3DC5240510DF5225820134014075C143326A691BC0000000000000000000000000000F0BF0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFC0000000C7A0000000CA60000000CF00000000A0CBC00000004000000000CFFFFFFFF110D06636F6564
+310
+67650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7A0000000CFC0000000C7C0000000CBF0000000B0CBC00000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CBB0000000CF3000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CA700000004020000000C0601
+310
+0000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13A8D4CA56E0870540E9D8D3D0A3FC5D40000000000000A0BC14790DE53594D7903C0000000000000000000000000000F03F0B0B110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFE000000063433333333C34DC00C7E0000
+310
+0006CACCCCCCCC2C34400CBB0000000C070100000B0707756E6B6E6F776E110D04666163650C0801000004FFFFFFFF0CFFFFFFFF0C840000000C7D0000000C040000000CFFFFFFFF0C090100000A0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13ADD4CA56E0870540E9D8D3D0A3FC5D400000000000004340
+310
+110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1305D5CA56E0870540E8D8D3D0A3DC52400000000000004340110D04666163650C0A01000004FFFFFFFF0CFFFFFFFF0CC00000000C0B0100000C040000000CFFFFFFFF0C0C0100000B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF130CBD1C69A572
+310
+56404E3F3A370AC35440000000000000A03C110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C840000000402000000040600000004010000000400000000041500000004010000000400000000110D04666163650C0D0100
+310
+0004FFFFFFFF0CFFFFFFFF0CC90000000CE90000000C040000000CFFFFFFFF0C0E0100000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C520000000C0F0100000C84000000110E04636F6E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13087E801D3BD124C0E8D8D3D0A39C554000000000
+310
+000000001400000000000000000000000000000000000000000000F03F140000000000000C400000000000000000000000000000000006000000000000F03F0B0B06000000000000000006000000000000F0BF060000000000000C400B0B0B0B0B110D04666163650C1001000004FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C8700
+310
+00000C040000000CFFFFFFFF0C110100000B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CE80000000CE70000000C8A0000000CCB0000000A0CE900000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CCC0000000600000000000000000C12010000066EAEC8DC6430
+310
+2D400CCA0000000C130100000B0707756E6B6E6F776E110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CEC00000004020000000C14010000110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13097E801D3BD124C0E8D8D3D0A39C55400000000000000040140000000000000000
+310
+0000000000000000000000000000F03F140C0F3B2A6B200BC010412D511E752040000000000000000006000000000000F03F0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CCE0000000CCE0000000C0F0100000C150100000B0C8C00000004000000000CFFFFFFFF110E09706572737562656E740E1061
+310
+636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C8D000000040200000004060000000400CA9A3B040200000004150000000400CA9A3B0402000000110D04666163650C1601000004FFFFFFFF0CFFFFFFFF0C170100000C180100000C040000000CFFFFFFFF0C19
+310
+0100000B0B110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF134835B14236B41AC0C334EB6186A4554000000000000000401400000000000000000000000000000000000000000000F03F14000000000000F03F000000000000000000000000000000000B0B0B0B0B110D06636F656467650C
+310
+FFFFFFFF04FFFFFFFF0CFFFFFFFF0C1A0100000C900000000C8F0000000CD30000000A0C9B00000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C1201000006000000000000F0BF0C920000000634333333333338400C8F0000000C1B0100000B0707756E6B6E6F776E110E0873747261
+310
+696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1387522B5B811FE63FB5A5A09D70A9584000000000000000401400000000000000000000000000000000000000000000F0BF0B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1387522B5B811FE63FB5A5A09D70A95840000000000000004011
+310
+0E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C950000000402000000041300000004010000000400000000041300000004020000000400000000110D04666163650C1C01000004FFFFFFFF0CFFFFFFFF0CC30000000CDE00
+310
+00000C040000000CFFFFFFFF0C1D0100000B0B110E04636F6E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13D0522B5B811FE63F85726D6A3DAA5A40A038333333932C4014000000000000F03F0000000000000000000000000000000014000000000000000000000000000000009A999999993926C00600
+310
+0000000000F03F0B0B06000000000000000006000000000000F03F069A999999993926400B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C9F0000000C970000000C1E0100000C1F0100000A0C2600000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C20
+310
+0100000C210100000C970000000CDB0000000B0C1801000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C220100000600000000000000000CDF00000006737311A20EEC43400CDA0000000C230100000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFF
+310
+FF0C240100000C980000000C9A0000000CE20000000B0CDE00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C980000000C250100000C200100000C260100000A0CDE00000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CDD00
+310
+00000CD7000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CDB00000004020000000C27010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13732383CF0B195540E9D8D3D0A37C5E40000000000000A03C14000000000000F0BF0000000000000000000000000000
+310
+00000B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C9A0000000C1A0100000C280100000C290100000A0C9B00000004000000000CFFFFFFFF110D04656467650C2A01000004FFFFFFFF0CFFFFFFFF0C9C00000006510DF522582013C00C2B01000006565EA1FBF41B42400C9A0000000C2C0100000B0707
+310
+756E6B6E6F776E110D04666163650C2D01000004FFFFFFFF0CFFFFFFFF0C8D0000000C2E0100000C040000000CFFFFFFFF0C2F0100000B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1300542B5B811FE63FE9D8D3D0A37C5E400000000000000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFF
+310
+FF0C300100000C310100000C9F0000000CE60000000B0C3201000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CEA0000000600000000000000000C330100000665666666662657400CE50000000C340100000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0C
+310
+FFFFFFFF0CCA0000000CA00000000C310100000C350100000B0CE900000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CA00000000CCA0000000CA20000000CEC0000000A0CE900000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF
+310
+0CE80000000CC6000000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CA100000004020000000C36010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13E27678985A5B2AC0ABE6445C537F5340000000000000000014D311BDB13169EE3FA2DDBA7DDEEAD3BF000000
+310
+00000000000A0600000000000000000A066EAEC8DC64302D40110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CA30000000600000000000000000CCC0000000600000000000000400CA20000000C370100000B070774616E67656E74110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13E27678985A5B2AC0
+310
+ABE6445C537F53400000000000000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CA60000000CA50000000CFB0000000C380100000A0C4300000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C0001000006000000000000E0BF0CB800000006CACCCCCCCCCC53400C
+310
+B10000000C390100000B0707756E6B6E6F776E110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3A01000006CCCCCCCCCCDC53C00CBD00000006300100000000D03F0CBA0000000C3B0100000B0707756E6B6E6F776E110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1390D4CA56
+310
+E0870540E9D8D3D0A39C5D4000000000007A543D1401000000000000BD000000000000F0BFA17D900CA86712BD0B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CA9000000040100000004030000000400CA9A3B0402
+310
+000000110D04666163650C3C01000004FFFFFFFF0CFFFFFFFF0CE30000000CBC0000000C040000000CFFFFFFFF0C3D0100000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3E0100000C3F0100000CA9000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1384496BB6BB
+310
+6F5640058CF7EEE5C5574000000000000000401400000000000000000000000000000000000000000000F03F14000000000000F03F000000000000000000000000000000000B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CF90000000C400100000C250100000C410100000A0CAA000000040000
+310
+00000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C280100000CAC0000000C240100000C420100000B0C6F00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CAC0000000C280100000C430100000C440100000B0C6F00000004000000000CFFFFFFFF
+310
+110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C450100000CF60000000CAC0000000CFA0000000A0CAA00000004000000000CFFFFFFFF110D04656467650C4601000004FFFFFFFF0CFFFFFFFF0C470100000604000000004038C00C480100000604000000004038400CF90000000C490100000B0707756E6B6E
+310
+6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CAE0000000CAD0000000CEE0000000C380100000B0C4800000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CBB0000000CBA0000000CAD0000000CFD0000000A0CBC00000004000000000CFFFFFFFF110D0465
+310
+6467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFE0000000600000000000043C00C3A01000006000000000000903C0CAD0000000C4A0100000B0707756E6B6E6F776E110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFD00000004020000000C4B010000110E0873747261696768740D0563757276650CFFFFFF
+310
+FF04FFFFFFFF0CFFFFFFFF13722383CF0B995440E9D8D3D0A3245B400000000000004340140000000000000000000000000000F03F00000000000000000B0B110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CB200000004020000000C4C010000110E0873747261696768740D0563757276650CFFFFFFFF04FF
+310
+FFFFFF0CFFFFFFFF13722383CF0B995440E8D8D3D0A3DC524000000000000000001400000000000000000000000000000000000000000000F0BF0B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B995440E8D8D3D0A3DC52400000000000004340110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFF
+310
+FFFFFF0CFFFFFFFF0C4D0100000C95000000110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13B5D4CA56E087054085726D6A3DAA5A40187C666666660940110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1300D5CA56E0870540E8D8D3D0A3DC52400000000000000000110D05706F696E740CFFFFFFFF
+310
+04FFFFFFFF0CFFFFFFFF13A8D4CA56E0870540E9D8D3D0A3FC5D40000000000000A0BC110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF136027A6D7C8DD3640E9D8D3D0A3FC5D40000000000000434014000000000000F0BF000000000000000000000000000000000B0B110E0970657273
+310
+7562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CC0000000040200000004070000000400CA9A3B040100000004110000000400CA9A3B0402000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13167A39
+310
+D24A454540E9D8D3D0A36C584000000000000043401400000000000000000000000000000000000000000000F03F14000000000000F03F000000000000000000000000000000000B0B0B0B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFF
+310
+FFFF0CFFFFFFFF0CC30000000401000000040300000004010000000400000000110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C810000000C4E0100000CC3000000110E04636F6E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF130CBD1C69A55257404E3F3A370AC3544000000000000000001400
+310
+000000000000000000000000000000000000000000F03F140000000000000C400000000000000000000000000000000006000000000000F03F0B0B06000000000000000006000000000000F0BF060000000000000C400B0B0B0B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D0661747472
+310
+69620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CC60000000402000000040600000004040000000400000000041500000004040000000400000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13E27678985A5B2AC0ABE6445C537F5340000000000000000014A2DDBA7DDEEAD3
+310
+BFD311BDB13169EEBF000000000000000014D311BDB13169EE3FA2DDBA7DDEEAD3BF00000000000000000B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C0F0100000C0F0100000CCE0000000C150100000A0CC700000004000000000CFFFFFFFF110E09706572737562656E740E1061636164536F
+310
+6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CC90000000403000000041000000004010000000400000000040600000004030000000400000000041500000004030000000400000000110E04636F6E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13097E
+310
+801D3BD124C0E8D8D3D0A39C554000000000000000001400000000000000000000000000000000000000000000F03F140C0F3B2A6B200BC010412D511E752040000000000000000006000000000000F03F0B0B06000000000000000006000000000000F03F06CFCCCCCCCCCC21400B0B0B0B0B110D067665727465780CFFFF
+310
+FFFF04FFFFFFFF0CFFFFFFFF0C3501000004020000000C4F010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13E27678985A5B2AC0ABE6445C537F5340000000000000004014D311BDB13169EE3FA2DDBA7DDEEAD3BF00000000000000000B0B110D05706F696E740CFFFFFFFF04FF
+310
+FFFFFF0CFFFFFFFF13E27678985A5B2AC0ABE6445C537F53400000000000000040110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C5001000006182D4454FB2109C00C5001000006182D4454FB2109400C0F0100000C510100000B0707756E6B6E6F776E110E09706572737562656E740E1061636164536F6C696448
+310
+6973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CD00000000401000000040300000004060000000400000000110D04666163650C5201000004FFFFFFFF0CFFFFFFFF0C530100000C540100000C040000000CFFFFFFFF0C550100000B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFF
+310
+FFFFFF0CFFFFFFFF0C200100000CD0000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13D221A2E2984B59409C98E19311745540000000000000A03C14B42E584B2A05ED3F5F87C9C304F8DA3F0000000000000000145F87C9C304F8DABFB42E584B2A05ED3F00000000000000000B0B
+310
+0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CE10000000CD20000000C560100000C570100000A0C9B00000004000000000CFFFFFFFF110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1380522B5B811FE63FE8D8D3D0A39C52400000000000000040148669EE82BF
+310
+8A933C000000000000F03F00000000000000000B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CD70000000404000000040700000004040000000400000000040300000004070000000400000000041C000000040C00
+310
+000004000000000401000000040E0000000400000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0BD95440E9D8D3D0A37C5E400000000000000000140000000000000000000000000000F03F000000000000000014000000000000F0BF0000000000000000000000000000
+310
+00000B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C580100000C590100000CD90000000C1F0100000B0C5401000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C330100000600000000000000000C2201000006455AE9E8D10B00400C1E0100000C5A010000
+310
+0B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C5B0100000CDA0000000CDD0000000C260100000B0C1801000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CDA0000000C5B0100000C580100000C5C0100000A0C1801000004000000000CFF
+310
+FFFFFF110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C1F01000004020000000C5D010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13D221A2E2984B59409C98E19311745540000000000000A03C145E87C9C304F8DABFB32E584B2A05ED3F00000000000000000A06
+310
+00000000000000000A06737311A20EEC4340110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C250100000CDC0000000CF70000000C420100000A0CDE00000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CDD0000000C240100000CF60000000C410100000B0CDE0000
+310
+0004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CDF0000000600000000000000000C5E0100000600000000000000400C200100000C5F0100000B0707756E6B6E6F776E110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13732383CF0B195540E9D8D3D0A37C5E40000000000000
+310
+A03C110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CF80000000CF70000000CE10000000C290100000B0C6F00000004000000000CFFFFFFFF110D04656467650C6001000004FFFFFFFF0CFFFFFFFF0C2B0100000604000000004038C00C610100000604000000004038400CE10000000C620100000B0707756E
+310
+6B6E6F776E110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CE20000000401000000041C000000040F0000000400000000110D067665727465780C6301000004FFFFFFFF0CFFFFFFFF0C4201000004010000000C64010000
+310
+110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1300542B5B811FE63FE9D8D3D0A37C5E40510DF5225820134014075C143326A6913C0000000000000080000000000000F03F0B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFF
+310
+FF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CE30000000408000000041600000004010000000400000000040700000004020000000400000000041000000004030000000400000000041C0000000406000000040000000004010000000410000000040000000004090000000400CA9A3B0402000000040D0000000400CA9A3B04
+310
+EE03000004120000000400CA9A3B04EC030000110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C9B0000000C650100000CE3000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1306542B5B811FE63F473F3A370A335B404E0DF5225820234014000000000000F0BF0000000000
+310
+000000075C143326A6913C14075C143326A6913C0000000000000000000000000000F03F0B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C660100000CE50000000C590100000C670100000B0C3201000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CE5
+310
+0000000C560100000CE70000000C350100000A0C3201000004000000000CFFFFFFFF110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C310100000C53010000110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CE600000004020000000C68010000110E0873747261696768740D0563757276
+310
+650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1300532B5B811FE63FE8D8D3D0A35C5240000000000000000014000000000000F03F000000000000000000000000000000000A0600000000000000000A066566666666265740110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CEA0000000600000000000000000C12010000
+310
+0600000000000000400CE70000000C690100000B0707756E6B6E6F776E110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1300532B5B811FE63FE8D8D3D0A35C52400000000000000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13E27678985A5B2AC0ABE6445C537F5340
+310
+00000000000000001400000000000000000000000000000000000000000000F03F0B0B110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3A01000006000000000000E0BF0C000100000602000000000046400CFB0000000C6A0100000B0707756E6B6E6F776E110E0873747261696768740D0563757276650CFFFFFF
+310
+FF04FFFFFFFF0CFFFFFFFF13722383CF0B795440E8D8D3D0A3DC5240000000000000000014000000000000F0BF000000000000000000000000000000000B0B110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFD00000004020000000C6B010000110E0873747261696768740D0563757276650CFFFFFFFF04FF
+310
+FFFFFF0CFFFFFFFF13CED4CA56E0870740E9D8D3D0A3FC5D40000000000034563D14000000000000F0BF0000000000000000075C143326A6913C0B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CF300000004020000
+310
+00040100000004020000000400000000041100000004020000000400000000110E05706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13A0D4CA56E0870940E9D8D3D0A3FC5D40000000000000A03C140000000000000000000000000000F0BF000000000000000014000000000000F03F0000000000
+310
+00000000000000000000000B0B0B0B0B110D046C6F6F700CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C6C0100000CA9000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C3F0100000C3F0100000C4E0100000C6D0100000B0CF400000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF
+310
+04FFFFFFFF0CFFFFFFFF0CF60000000C450100000C6C0100000C6E0100000B0CAA00000004000000000CFFFFFFFF110D04656467650C6F01000004FFFFFFFF0CFFFFFFFF0C480100000600000000008044C00C5E0100000600000000000000C00CF60000000C700100000B0707756E6B6E6F776E110D04656467650C710100
+310
+0004FFFFFFFF0CFFFFFFFF0C4801000006CDCCCCCCCCEC44C00C2B01000006CDCCCCCCCCEC44400C240100000C720100000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C560100000C730100000CF80000000C440100000A0C3201000004000000000CFFFFFFFF110D04656467650C
+310
+7401000004FFFFFFFF0CFFFFFFFF0C6101000006CDCCCCCCCCEC44C00C4701000006CDCCCCCCCCEC44400C430100000C750100000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C400100000CF90000000C730100000C760100000B0CAA00000004000000000CFFFFFFFF110E097065
+310
+72737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0CFA0000000401000000041C00000004180000000400000000110D067665727465780C7701000004FFFFFFFF0CFFFFFFFF0CFA00000004000000000C78010000110D067665727465780C
+310
+7901000004FFFFFFFF0CFFFFFFFF0CFA00000004010000000C7A010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13742383CF0B195540DDD8D3D0A36C5840000000000080444014075C143326A6A13C000000000000F03F00000000000000000B0B110E0873747261696768740D05
+310
+63757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B995440E9D8D3D0A3FC5D40000000000000903C1400000000000000800000000000000080000000000000F0BF0B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B995440E9D8D3D0A3FC5D400000000000004340110D05706F696E
+310
+740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B995440E8D8D3D0A3DC52400000000000000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C4D0100000C4D0100000C650100000C7B0100000A0C0301000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C4E
+310
+0100000C4E0100000C3F0100000C6D0100000A0C0B01000004000000000CFFFFFFFF110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1300532B5B811FE63FE8D8D3D0A35C52400000000000000040110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C1501000004000000000C7C010000110E07656C6C
+310
+697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13087E801D3BD124C0E8D8D3D0A39C554000000000000000401400000000000000000000000000000000000000000000F0BF140000000000000C400000000000000000000000000000000006000000000000F03F0B0B110E09706572737562656E740E1061
+310
+636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C170100000401000000040300000004050000000400000000110D04666163650C7D01000004FFFFFFFF0CFFFFFFFF0C620000000C320100000C040000000CFFFFFFFF0C7E0100000B0B110D046C6F6F700CFFFF
+310
+FFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C7F0100000C17010000110E04636F6E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF130DBD1C69A5525740B3A5A09D7089544000000000000000001400000000000000000000000000000000000000000000F03F1400000000000010BD58666666666621C00000
+310
+00000000000006000000000000F03F0B0B06000000000000000006000000000000F03F0658666666666621400B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C310100000C430100000C1A0100000C570100000B0C3201000004000000000CFFFFFFFF110D04656467650C8001000004FFFFFFFF0C
+310
+FFFFFFFF0C6101000006565EA1FBF41B42C00C12010000069C1AEA45B04006400C1A0100000C810100000B0707756E6B6E6F776E110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7F0100000C1E0100000C210100000C5C0100000B0C5401000004000000000CFFFFFFFF110D06636F656467650CFFFFFFFF04
+310
+FFFFFFFF0CFFFFFFFF0C1E0100000C7F0100000C300100000C670100000A0C5401000004000000000CFFFFFFFF110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF130DBD1C69A5525740B3A5A09D7089544000000000000000001400000000000000000000000000000000000000000000F03F
+310
+1400000000000010BD58666666666621C0000000000000000006000000000000F03F0A0600000000000000000A06455AE9E8D10B0040110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C210100000C200100000C820100000C830100000A0C1801000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04
+310
+FFFFFFFF0CFFFFFFFF0C220100000612CED6A1DF6C6D3C0C840100000612CED6A1DF6CCD3F0C580100000C850100000B070774616E67656E74110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13D021A2E2984B59409C98E19311745540000000000000A03C110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFF
+310
+FFFF0C2601000004020000000C86010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13732383CF0B195540E9D8D3D0A37C5E40000000000000A03C1400000000000000000000000000000000000000000000F03F0B0B110E09706572737562656E740E1061636164536F6C69644869
+310
+73746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C290100000401000000041C000000040A0000000400000000110D067665727465780C8701000004FFFFFFFF0CFFFFFFFF0C2901000004010000000C88010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFF
+310
+FFFFFF1340532B5B811FE63FDDD8D3D0A36C5840000000000080444014075C143326A6A1BC000000000000F0BF00000000000000000B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C2B0100000401000000041C0000
+310
+0004110000000400000000110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1340532B5B811FE63FDED8D3D0A37C5E400000000000804440110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C650100000C650100000C4D0100000C7B0100000B0C2E01000004000000000CFFFFFFFF110D06636F656467
+310
+650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C730100000C300100000C890100000C8A0100000A0C3201000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C330100000600000000000000000C8B0100000600000000000000400C300100000C8C0100000B070774616E67656E74110D05706F
+310
+696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF130CBD1C69A5525740E8D8D3D0A35C52400000000000000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1300532B5B811FE63FE8D8D3D0A35C524000000000000000001400000000000000000000000000000000000000000000F03F0B
+310
+0B110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B995440E9D8D3D0A3DC5D400000000000000000140000000000000000000000000000F0BF00000000000000000B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B995440E9D8D3D0A3FC5D4000
+310
+00000000000000110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C890100000C820100000C400100000C6E0100000A0C3E01000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C8D01000006182D4454FB2109C00C8D01000006182D4454FB2109400C4E0100000C8E010000
+310
+0B0707756E6B6E6F776E110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C8F0100000670CC8E7808A526C00C5E01000006E64CDCE1BD9642400C400100000C900100000B0707756E6B6E6F776E110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFF
+310
+FF0CFFFFFFFF0CFFFFFFFF0C410100000401000000041C00000004170000000400000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B195540E8D8D3D0A37C5E40000000000000903C1400000000000000000000000000000000000000000000F0BF0B0B110E09706572
+310
+737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C420100000401000000041C00000004100000000400000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF131A7A39D24A454540DED8D3D0A37C5E40
+310
+000000000080444014000000000000F0BF075C143326A6A13C00000000000000000B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C430100000C660100000C450100000C760100000A0C3201000004000000000CFFFFFFFF110E09706572737562656E740E1061636164536F6C6964486973746F72790D06
+310
+6174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C440100000401000000041C00000004050000000400000000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF131A7A39D24A454540DCD8D3D0A35C5240000000000080444014000000000000F03F075C143326A6A1BC00
+310
+000000000000000B0B110D04656467650C9101000004FFFFFFFF0CFFFFFFFF0C470100000600000000008044C00C8F0100000600000000000000C00C730100000C920100000B0707756E6B6E6F776E110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF
+310
+0CFFFFFFFF0CFFFFFFFF0C470100000401000000041C00000004190000000400000000110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13742383CF0B195540DCD8D3D0A35C52400000000000804440110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04
+310
+FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C480100000401000000041C000000041A0000000400000000110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13742383CF0B195540DED8D3D0A37C5E400000000000804440110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C930100000600000000000000000C930100
+310
+0006182D4454FB2119400C650100000C940100000B0707756E6B6E6F776E110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13087E801D3BD12BC0E8D8D3D0A39C55400000000000000040110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0C
+310
+FFFFFFFF0CFFFFFFFF0C530100000407000000040300000004030000000400000000041C000000040300000004000000000403000000040400000004000000000406000000040500000004000000000415000000040500000004000000000407000000040800000004000000000401000000040A0000000400000000110E05
+310
+706C616E650D07737572666163650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1300532B5B811FE63FE8D8D3D0A35C52400000000000000000140000000000000000000000000000F0BF000000000000000014000000000000F03F000000000000000000000000000000000B0B0B0B0B110D06636F656467650CFFFFFFFF04FFFFFF
+310
+FF0CFFFFFFFF0C590100000C580100000C950100000C960100000A0C5401000004000000000CFFFFFFFF110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C570100000401000000041C00000004090000000400000000110E
+310
+0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1303542B5B811FE63FE8D8D3D0A35C52404E0DF5225820134014075C143326A691BC0000000000000080000000000000F0BF0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C6C0100000C950100000C5B0100000C83010000
+310
+0B0C3E01000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C84010000064CDAAAB072771AC00C5E010000062A18FC4B209D40400C5B0100000C970100000B0707756E6B6E6F776E110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C5C01000004020000000C98010000110E
+310
+0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13D021A2E2984B59409C98E193117455400000000000000000140000000000000000000000000000000058666666666621400B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B195540E9D8D3D0A37C5E4000000000
+310
+00000040110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C610100000401000000041C000000040B0000000400000000110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF1340532B5B811FE63FDCD8D3D0A35C5240
+310
+0000000000804440110D06636F656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C950100000C6C0100000C660100000C8A0100000B0C3E01000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C8F01000006BAA6E4E51C9643400C8B01000006EED91719500948400C660100000C990100
+310
+000B0707756E6B6E6F776E110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C9601000004020000000C9A010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF130CBD1C69A5525740E8D8D3D0A35C5240000000000000000014000000000000000000000000000000000000
+310
+00000000F03F0B0B110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C6D01000004000000000C9B010000110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF130CBD1C69A55257404E3F3A370AC3544001000000000000401400000000000000000000000000000000000000000000
+310
+F0BF140000000000000C400000000000000000000000000000000006000000000000F03F0B0B110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7601000004020000000C9C010000110E0873747261696768740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B19554076B2E5DF44315540
+310
+0100000000000040140000000000000000000000000000F03F00000000000000000B0B110E09706572737562656E740E1061636164536F6C6964486973746F72790D066174747269620CFFFFFFFF04FFFFFFFF0CFFFFFFFF0CFFFFFFFF0C760100000401000000041C00000004130000000400000000110E08737472616967
+310
+68740D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B195540E8D8D3D0A35C5240000000000000903C1400000000000000000000000000000000000000000000F0BF0B0B110D067665727465780CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C7B01000004000000000C9D010000110E07656C6C697073650D05
+310
+63757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF1304542B5B811FE63F85726D6A3DAA5A40A038333333932C4014000000000000F03F0000000000000080075C143326A691BC14000000000000000000000000000000009A999999993926C006000000000000F03F0B0B110D06636F656467650CFFFFFFFF04FFFFFFFF0CFF
+310
+FFFFFF0C820100000C890100000C7F0100000C960100000B0C3E01000004000000000CFFFFFFFF110D04656467650CFFFFFFFF04FFFFFFFF0CFFFFFFFF0C8B0100000600000000000000000C8401000006475AE9E8D10B00400C7F0100000C9E0100000B0707756E6B6E6F776E110E0873747261696768740D056375727665
+310
+0CFFFFFFFF04FFFFFFFF0CFFFFFFFF13AC1AD86B27995840627633ED19F456400000000000000040145F87C9C304F8DABFB42E584B2A05ED3F00000000000000000B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13D021A2E2984B59409C98E193117455400000000000000040110E0873747261696768740D
+310
+0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF132AA021B9FA9B4640E8D8D3D0A35C5240000000000000004014000000000000F03F000000000000000000000000000000800B0B110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF130CBD1C69A5525740E8D8D3D0A35C52400000000000000040110D05706F69
+310
+6E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF130CBD1C69A57256404E3F3A370AC354400000000000000040110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13722383CF0B195540E8D8D3D0A35C52400000000000000040110D05706F696E740CFFFFFFFF04FFFFFFFF0CFFFFFFFF13D4522B5B811FE63F85726D6A3D
+310
+AA5A40187C666666660940110E07656C6C697073650D0563757276650CFFFFFFFF04FFFFFFFF0CFFFFFFFF130DBD1C69A5525740B3A5A09D7089544000000000000000401400000000000000000000000000000000000000000000F03F1400000000000010BD58666666666621C0000000000000000006000000000000F03F
+310
+0B0B110E03456E640E026F660E0341534D0D0464617461
+  0
+ENDSEC
+  0
+EOF
