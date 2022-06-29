@@ -30,8 +30,9 @@ Potting compound: \
 
 Credits: \
 Blair M. - Reviewing schematics and lending EE knowledge. \
-Tom W. - Reviewing schematics and lending EE knowledge. \
+T. W. Wolfgang - Reviewing schematics and lending EE knowledge. \
 Mike B. - Supplying additional broken CDIs, partially completed schematic for CDI. \
 Robert L. - Supplying partially completed schematic for Change Relay. \
 Steven Myers of [Bearish Cases](https://www.bearishcases.com/) - CAD work for casing. \
-Tom R. - 3D printing.
+PrimesTurmoil - 3D printing. \
+Jim and Tom from [VHT](https://vintagehondatwins.com) – Support.
