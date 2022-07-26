@@ -1,0 +1,7 @@
+"Index","Quantity","Part Number","Manufacturer Part Number","Description","Customer Reference","Available","Backorder","Unit Price","Extended Price USD"
+"1","1","BC3566CT-ND","MBB02070C1001FCT00","RES 1K OHM 0.6W 1% AXIAL","R1","1","0","0.30000","0.30"
+"2","1","BC10.0KZCT-ND","MBB02070C1002FRP00","RES 10K OHM 0.6W 1% AXIAL","R2","1","0","0.30000","0.30"
+"3","1","BC4460CT-ND","MBB02070C3000FCT00","RES 300 OHM 1% 0.6W AXIAL","R3","1","0","0.29000","0.29"
+"4","1","BC249ZCT-ND","MBB02070C2490FRP00","RES 249 OHM 0.6W 1% AXIAL","R4","1","0","0.30000","0.30"
+"5","6","641-1973-ND","1N4002B-G","DIODE GEN PURP 100V 1A DO41","D1-D6","6","0","0.21000","1.26"
+"6","1","IRF540NPBF-ND","IRF540NPBF","MOSFET N-CH 100V 33A TO220AB","Q1","1","0","1.35000","1.35"
