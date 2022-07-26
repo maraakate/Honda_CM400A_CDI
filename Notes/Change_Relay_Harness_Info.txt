@@ -1,0 +1,7 @@
+Black - 2" to 2-pin connector (P6)
+Red/Green - 2" to 2-pin connector (P7)
+Blue/Yellow - 2" to 3-pin connector (P1)
+Red/Brown - 2" to 3-pin connector (P2)
+Green - 2" to 3-pin connector (P3)
+Green/Black - 4" to female bullet (P5)
+Light Blue - 4" to male bullet (P4)
